@@ -326,10 +326,14 @@ def main():
     heroine_counts = df_c_final.groupby("story_id").size().to_dict()
     df_s["heroine_count"] = df_s["story_id"].map(heroine_counts).fillna(0).astype(int)
     
+    # Sort candidates by story_id and introduction_order to assign sequential IDs
+    df_c_final = df_c_final.sort_values(by=["story_id", "introduction_order"]).reset_index(drop=True)
+    df_c_final["candidate_id"] = [f"C{i:04d}" for i in range(1, len(df_c_final) + 1)]
+    
     # 4. Save cleaned datasets
     df_s.to_excel(STORIES_FILE, index=False)
     df_c_final.to_excel(CANDIDATES_FILE, index=False)
-    print("Successfully saved cleaned sheets with shoujo overrides.")
+    print("Successfully saved cleaned sheets with shoujo overrides and sequential candidate IDs.")
     
     # 5. Run validation assertions
     print("\n--- Validation Assertions Check ---")

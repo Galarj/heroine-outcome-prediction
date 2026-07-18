@@ -20,6 +20,8 @@ The goals of this project:
 - Comparison Across Media
 - Machine Learning Prediction
 
+## IMPORTANT !!!! 
+Character metadata was curated using public sources and AI-assisted annotation, followed by manual review of ambiguous or low-confidence cases. Despite validation procedures, some labels may contain errors and future revisions will continue improving the dataset (or sometimes i get lazy and not check at all PLS I JUST WANT TO STUDY)
 
 ## 🛠 Tech Stack
 

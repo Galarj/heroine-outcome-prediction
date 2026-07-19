@@ -5,7 +5,7 @@ This report documents the curation, cleansing, and validation checks executed fo
 ## 📊 Summary of Dataset Curation
 
 - **Stories Processed**: 68
-- **Legitimate Candidates Curated**: 303
+- **Legitimate Candidates Curated**: 301
 - **Merged Duplicate Stories**: 2
 
 ---
@@ -25,6 +25,7 @@ We successfully curated and aligned all story winners using original source mate
 - **Ouran High School Host Club** (ID 61) -> Curated male love interest candidates and removed female protagonists.
 - **Fruits Basket** (ID 62) -> Curated male love interest candidates and removed female protagonists.
 - **Kimi ni Todoke** (ID 63) -> Curated male love interest candidates and removed female protagonists.
+- **Lovely★Complex** (ID 64) -> Curated male love interest candidates and removed female protagonists.
 - **Kare Kano (His and Her Circumstances)** (ID 65) -> Curated male love interest candidates and removed female protagonists.
 - **B Gata H Kei** (ID 66) -> Curated male love interest candidates and removed female protagonists.
 - **My Sweet Tyrant** (ID 68) -> Curated male love interest candidates and removed female protagonists.
@@ -138,10 +139,10 @@ A detailed list of candidates, their curated fields (introduction_order, first_g
   - _Hair Color_: Blue | _Childhood Connection_: None | _Commitment Status_: None | _Confidence Score_: 1.0
 - **Marika Tachibana** (Order: 4, First Girl: 0, Won: 0)
   - _Justification_: Introduced later in the series, holds a childhood promise, does not win.
-  - _Hair Color_: Unknown | _Childhood Connection_: Childhood Promise | _Commitment Status_: None | _Confidence Score_: 1.0
+  - _Hair Color_: Other | _Childhood Connection_: Childhood Promise | _Commitment Status_: None | _Confidence Score_: 1.0
 - **Yui Kanakura** (Order: 5, First Girl: 0, Won: 0)
   - _Justification_: Automatically recovered missing major candidate: Yui Kanakura.
-  - _Hair Color_: Unknown | _Childhood Connection_: None | _Commitment Status_: None | _Confidence Score_: 0.85
+  - _Hair Color_: Black | _Childhood Connection_: None | _Commitment Status_: None | _Confidence Score_: 0.85
 
 ### The Quintessential Quintuplets (ID 2)
 - **Ichika Nakano** (Order: 1, First Girl: 0, Won: 0)
@@ -155,7 +156,7 @@ A detailed list of candidates, their curated fields (introduction_order, first_g
   - _Hair Color_: Brown | _Childhood Connection_: None | _Commitment Status_: None | _Confidence Score_: 1.0
 - **Yotsuba Nakano** (Order: 4, First Girl: 0, Won: 1)
   - _Justification_: Confirmed as the girl from the childhood promise and the canonical winner.
-  - _Hair Color_: Unknown | _Childhood Connection_: Childhood Promise | _Commitment Status_: Marriage | _Confidence Score_: 1.0
+  - _Hair Color_: Other | _Childhood Connection_: Childhood Promise | _Commitment Status_: Marriage | _Confidence Score_: 1.0
 - **Itsuki Nakano** (Order: 5, First Girl: 1, Won: 0)
   - _Justification_: Fifth sister, but the first to interact with the protagonist in the opening chapter.
   - _Hair Color_: Red | _Childhood Connection_: None | _Commitment Status_: None | _Confidence Score_: 1.0
@@ -172,10 +173,10 @@ A detailed list of candidates, their curated fields (introduction_order, first_g
   - _Hair Color_: Brown | _Childhood Connection_: None | _Commitment Status_: None | _Confidence Score_: 1.0
 - **Michiru Hyodo** (Order: 4, First Girl: 0, Won: 0)
   - _Justification_: Automatically recovered missing major candidate: Michiru Hyodo.
-  - _Hair Color_: Unknown | _Childhood Connection_: None | _Commitment Status_: None | _Confidence Score_: 0.85
+  - _Hair Color_: Black | _Childhood Connection_: None | _Commitment Status_: None | _Confidence Score_: 0.85
 - **Izumi Hashima** (Order: 5, First Girl: 0, Won: 0)
   - _Justification_: Automatically recovered missing major candidate: Izumi Hashima.
-  - _Hair Color_: Unknown | _Childhood Connection_: None | _Commitment Status_: None | _Confidence Score_: 0.85
+  - _Hair Color_: Red | _Childhood Connection_: None | _Commitment Status_: None | _Confidence Score_: 0.85
 
 ### The World God Only Knows (ID 4)
 - **Ayumi Takahara** (Order: 1, First Girl: 1, Won: 0)
@@ -204,10 +205,10 @@ A detailed list of candidates, their curated fields (introduction_order, first_g
   - _Hair Color_: Black | _Childhood Connection_: None | _Commitment Status_: None | _Confidence Score_: 1.0
 - **Kanon Hinoki** (Order: 9, First Girl: 0, Won: 0)
   - _Justification_: Automatically recovered missing major candidate: Kanon Hinoki.
-  - _Hair Color_: Unknown | _Childhood Connection_: None | _Commitment Status_: None | _Confidence Score_: 0.85
+  - _Hair Color_: Green | _Childhood Connection_: None | _Commitment Status_: None | _Confidence Score_: 0.85
 - **Chihiro Kosaka** (Order: 10, First Girl: 0, Won: 0)
   - _Justification_: Automatically recovered missing major candidate: Chihiro Kosaka.
-  - _Hair Color_: Unknown | _Childhood Connection_: None | _Commitment Status_: None | _Confidence Score_: 0.85
+  - _Hair Color_: Brown | _Childhood Connection_: None | _Commitment Status_: None | _Confidence Score_: 0.85
 
 ### Love Hina (ID 5)
 - **Naru Narusegawa** (Order: 1, First Girl: 1, Won: 1)
@@ -281,10 +282,10 @@ A detailed list of candidates, their curated fields (introduction_order, first_g
   - _Hair Color_: Brown | _Childhood Connection_: None | _Commitment Status_: None | _Confidence Score_: 1.0
 - **Shizuka Hiratsuka** (Order: 4, First Girl: 0, Won: 0)
   - _Justification_: Automatically recovered missing major candidate: Shizuka Hiratsuka.
-  - _Hair Color_: Unknown | _Childhood Connection_: None | _Commitment Status_: None | _Confidence Score_: 0.85
+  - _Hair Color_: Black | _Childhood Connection_: None | _Commitment Status_: None | _Confidence Score_: 0.85
 - **Saki Kawasaki** (Order: 5, First Girl: 0, Won: 0)
   - _Justification_: Automatically recovered missing major candidate: Saki Kawasaki.
-  - _Hair Color_: Unknown | _Childhood Connection_: None | _Commitment Status_: None | _Confidence Score_: 0.85
+  - _Hair Color_: Blue | _Childhood Connection_: None | _Commitment Status_: None | _Confidence Score_: 0.85
 
 ### Toradora! (ID 9)
 - **Taiga Aisaka** (Order: 1, First Girl: 1, Won: 1)
@@ -298,10 +299,10 @@ A detailed list of candidates, their curated fields (introduction_order, first_g
   - _Hair Color_: Blue | _Childhood Connection_: None | _Commitment Status_: None | _Confidence Score_: 1.0
 - **Yasuko Takasu** (Order: 4, First Girl: 0, Won: 0)
   - _Justification_: Automatically recovered missing major candidate: Yasuko Takasu.
-  - _Hair Color_: Unknown | _Childhood Connection_: None | _Commitment Status_: None | _Confidence Score_: 0.85
+  - _Hair Color_: Blonde | _Childhood Connection_: None | _Commitment Status_: None | _Confidence Score_: 0.85
 - **Inko** (Order: 5, First Girl: 0, Won: 0)
   - _Justification_: Automatically recovered missing major candidate: Inko.
-  - _Hair Color_: Unknown | _Childhood Connection_: None | _Commitment Status_: None | _Confidence Score_: 0.85
+  - _Hair Color_: Green | _Childhood Connection_: None | _Commitment Status_: None | _Confidence Score_: 0.85
 
 ### Golden Time (ID 10)
 - **Koko Kaga** (Order: 1, First Girl: 1, Won: 1)
@@ -343,10 +344,10 @@ A detailed list of candidates, their curated fields (introduction_order, first_g
   - _Hair Color_: Brown | _Childhood Connection_: None | _Commitment Status_: None | _Confidence Score_: 0.95
 - **Rin Eba** (Order: 4, First Girl: 0, Won: 0)
   - _Justification_: Automatically recovered missing major candidate: Rin Eba.
-  - _Hair Color_: Unknown | _Childhood Connection_: None | _Commitment Status_: None | _Confidence Score_: 0.85
+  - _Hair Color_: Blue | _Childhood Connection_: None | _Commitment Status_: None | _Confidence Score_: 0.85
 - **Akari Kaga** (Order: 5, First Girl: 0, Won: 0)
   - _Justification_: Automatically recovered missing major candidate: Akari Kaga.
-  - _Hair Color_: Unknown | _Childhood Connection_: None | _Commitment Status_: None | _Confidence Score_: 0.85
+  - _Hair Color_: Brown | _Childhood Connection_: None | _Commitment Status_: None | _Confidence Score_: 0.85
 
 ### Suzuka (ID 13)
 - **Suzuka Asahina** (Order: 1, First Girl: 1, Won: 1)
@@ -357,7 +358,7 @@ A detailed list of candidates, their curated fields (introduction_order, first_g
   - _Hair Color_: Brown | _Childhood Connection_: None | _Commitment Status_: None | _Confidence Score_: 1.0
 - **Megumi Matsumoto** (Order: 3, First Girl: 0, Won: 0)
   - _Justification_: Automatically recovered missing major candidate: Megumi Matsumoto.
-  - _Hair Color_: Unknown | _Childhood Connection_: None | _Commitment Status_: None | _Confidence Score_: 0.85
+  - _Hair Color_: Brown | _Childhood Connection_: None | _Commitment Status_: None | _Confidence Score_: 0.85
 
 ### Domestic Girlfriend (ID 14)
 - **Hina Tachibana** (Order: 1, First Girl: 1, Won: 1)
@@ -401,13 +402,13 @@ A detailed list of candidates, their curated fields (introduction_order, first_g
   - _Hair Color_: Black | _Childhood Connection_: Childhood Friend | _Commitment Status_: None | _Confidence Score_: 1.0
 - **Chartreux Westia** (Order: 3, First Girl: 0, Won: 0)
   - _Justification_: Automatically recovered missing major candidate: Chartreux Westia.
-  - _Hair Color_: Unknown | _Childhood Connection_: None | _Commitment Status_: None | _Confidence Score_: 0.85
+  - _Hair Color_: Silver | _Childhood Connection_: None | _Commitment Status_: None | _Confidence Score_: 0.85
 - **Kochou Wang** (Order: 4, First Girl: 0, Won: 0)
   - _Justification_: Automatically recovered missing major candidate: Kochou Wang.
-  - _Hair Color_: Unknown | _Childhood Connection_: None | _Commitment Status_: None | _Confidence Score_: 0.85
+  - _Hair Color_: Purple | _Childhood Connection_: None | _Commitment Status_: None | _Confidence Score_: 0.85
 - **Teria Wang** (Order: 5, First Girl: 0, Won: 0)
   - _Justification_: Automatically recovered missing major candidate: Teria Wang.
-  - _Hair Color_: Unknown | _Childhood Connection_: None | _Commitment Status_: None | _Confidence Score_: 0.85
+  - _Hair Color_: Purple | _Childhood Connection_: None | _Commitment Status_: None | _Confidence Score_: 0.85
 
 ### Masamune-kun's Revenge (ID 18)
 - **Aki Adagaki** (Order: 1, First Girl: 1, Won: 1)
@@ -421,10 +422,10 @@ A detailed list of candidates, their curated fields (introduction_order, first_g
   - _Hair Color_: Brown | _Childhood Connection_: None | _Commitment Status_: None | _Confidence Score_: 0.95
 - **Tae Futaba** (Order: 4, First Girl: 0, Won: 0)
   - _Justification_: Automatically recovered missing major candidate: Tae Futaba.
-  - _Hair Color_: Unknown | _Childhood Connection_: None | _Commitment Status_: None | _Confidence Score_: 0.85
+  - _Hair Color_: Brown | _Childhood Connection_: None | _Commitment Status_: None | _Confidence Score_: 0.85
 - **Kojuurou Shuri** (Order: 5, First Girl: 0, Won: 0)
   - _Justification_: Automatically recovered missing major candidate: Kojuurou Shuri.
-  - _Hair Color_: Unknown | _Childhood Connection_: None | _Commitment Status_: None | _Confidence Score_: 0.85
+  - _Hair Color_: Other | _Childhood Connection_: None | _Commitment Status_: None | _Confidence Score_: 0.85
 
 ### Yamada-kun and the Seven Witches (ID 19)
 - **Urara Shiraishi** (Order: 1, First Girl: 1, Won: 1)
@@ -447,10 +448,10 @@ A detailed list of candidates, their curated fields (introduction_order, first_g
   - _Hair Color_: Brown | _Childhood Connection_: None | _Commitment Status_: None | _Confidence Score_: 0.95
 - **Meiko Otsuka** (Order: 7, First Girl: 0, Won: 0)
   - _Justification_: Automatically recovered missing major candidate: Meiko Otsuka.
-  - _Hair Color_: Unknown | _Childhood Connection_: None | _Commitment Status_: None | _Confidence Score_: 0.85
+  - _Hair Color_: Brown | _Childhood Connection_: None | _Commitment Status_: None | _Confidence Score_: 0.85
 - **Mikoto Asuka** (Order: 8, First Girl: 0, Won: 0)
   - _Justification_: Automatically recovered missing major candidate: Mikoto Asuka.
-  - _Hair Color_: Unknown | _Childhood Connection_: None | _Commitment Status_: None | _Confidence Score_: 0.85
+  - _Hair Color_: Brown | _Childhood Connection_: None | _Commitment Status_: None | _Confidence Score_: 0.85
 
 ### Mayo Chiki! (ID 20)
 - **Subaru Konoe** (Order: 1, First Girl: 1, Won: 1)
@@ -501,7 +502,7 @@ A detailed list of candidates, their curated fields (introduction_order, first_g
   - _Hair Color_: Purple | _Childhood Connection_: None | _Commitment Status_: None | _Confidence Score_: 0.95
 - **Kodachi Kuno** (Order: 4, First Girl: 0, Won: 0)
   - _Justification_: Automatically recovered missing major candidate: Kodachi Kuno.
-  - _Hair Color_: Unknown | _Childhood Connection_: None | _Commitment Status_: None | _Confidence Score_: 0.85
+  - _Hair Color_: Black | _Childhood Connection_: None | _Commitment Status_: None | _Confidence Score_: 0.85
 
 ### Hayate the Combat Butler (ID 23)
 - **Nagi Sanzenin** (Order: 1, First Girl: 1, Won: 0)
@@ -530,7 +531,7 @@ A detailed list of candidates, their curated fields (introduction_order, first_g
   - _Hair Color_: Pink | _Childhood Connection_: None | _Commitment Status_: None | _Confidence Score_: 1.0
 - **Sakuya Aizawa** (Order: 9, First Girl: 0, Won: 0)
   - _Justification_: Automatically recovered missing major candidate: Sakuya Aizawa.
-  - _Hair Color_: Unknown | _Childhood Connection_: None | _Commitment Status_: None | _Confidence Score_: 0.85
+  - _Hair Color_: Blue | _Childhood Connection_: None | _Commitment Status_: None | _Confidence Score_: 0.85
 
 ### Full Metal Panic! (ID 25)
 - **Kaname Chidori** (Order: 1, First Girl: 1, Won: 1)
@@ -552,10 +553,10 @@ A detailed list of candidates, their curated fields (introduction_order, first_g
   - _Hair Color_: Brown | _Childhood Connection_: Childhood Friend | _Commitment Status_: None | _Confidence Score_: 0.95
 - **Rina** (Order: 4, First Girl: 0, Won: 0)
   - _Justification_: Automatically recovered missing major candidate: Rina.
-  - _Hair Color_: Unknown | _Childhood Connection_: None | _Commitment Status_: None | _Confidence Score_: 0.85
+  - _Hair Color_: Blonde | _Childhood Connection_: None | _Commitment Status_: None | _Confidence Score_: 0.85
 - **Lucy Winfield** (Order: 5, First Girl: 0, Won: 0)
   - _Justification_: Automatically recovered missing major candidate: Lucy Winfield.
-  - _Hair Color_: Unknown | _Childhood Connection_: None | _Commitment Status_: None | _Confidence Score_: 0.85
+  - _Hair Color_: Blonde | _Childhood Connection_: None | _Commitment Status_: None | _Confidence Score_: 0.85
 
 ### Sankarea (ID 27)
 - **Rea Sanka** (Order: 1, First Girl: 1, Won: 1)
@@ -571,16 +572,16 @@ A detailed list of candidates, their curated fields (introduction_order, first_g
 ### Campione! (ID 29)
 - **Erica Blandelli** (Order: 1, First Girl: 1, Won: 0)
   - _Justification_: Automatically recovered missing major candidate: Erica Blandelli.
-  - _Hair Color_: Unknown | _Childhood Connection_: None | _Commitment Status_: None | _Confidence Score_: 0.85
+  - _Hair Color_: Blonde | _Childhood Connection_: None | _Commitment Status_: None | _Confidence Score_: 0.85
 - **Yuri Mariya** (Order: 2, First Girl: 0, Won: 0)
   - _Justification_: Automatically recovered missing major candidate: Yuri Mariya.
-  - _Hair Color_: Unknown | _Childhood Connection_: None | _Commitment Status_: None | _Confidence Score_: 0.85
+  - _Hair Color_: Brown | _Childhood Connection_: None | _Commitment Status_: None | _Confidence Score_: 0.85
 - **Liliana Kranjcar** (Order: 3, First Girl: 0, Won: 0)
   - _Justification_: Automatically recovered missing major candidate: Liliana Kranjcar.
-  - _Hair Color_: Unknown | _Childhood Connection_: None | _Commitment Status_: None | _Confidence Score_: 0.85
+  - _Hair Color_: Silver | _Childhood Connection_: None | _Commitment Status_: None | _Confidence Score_: 0.85
 - **Ena Seishuuin** (Order: 4, First Girl: 0, Won: 0)
   - _Justification_: Automatically recovered missing major candidate: Ena Seishuuin.
-  - _Hair Color_: Unknown | _Childhood Connection_: None | _Commitment Status_: None | _Confidence Score_: 0.85
+  - _Hair Color_: Black | _Childhood Connection_: None | _Commitment Status_: None | _Confidence Score_: 0.85
 
 ### Date A Live (ID 30)
 - **Tooka Yatogami** (Order: 1, First Girl: 1, Won: 0)
@@ -603,27 +604,27 @@ A detailed list of candidates, their curated fields (introduction_order, first_g
   - _Hair Color_: Blue | _Childhood Connection_: None | _Commitment Status_: None | _Confidence Score_: 0.9
 - **Kaguya Yamai** (Order: 7, First Girl: 0, Won: 0)
   - _Justification_: Automatically recovered missing major candidate: Kaguya Yamai.
-  - _Hair Color_: Unknown | _Childhood Connection_: None | _Commitment Status_: None | _Confidence Score_: 0.85
+  - _Hair Color_: Other | _Childhood Connection_: None | _Commitment Status_: None | _Confidence Score_: 0.85
 - **Yuzuru Yamai** (Order: 8, First Girl: 0, Won: 0)
   - _Justification_: Automatically recovered missing major candidate: Yuzuru Yamai.
-  - _Hair Color_: Unknown | _Childhood Connection_: None | _Commitment Status_: None | _Confidence Score_: 0.85
+  - _Hair Color_: Other | _Childhood Connection_: None | _Commitment Status_: None | _Confidence Score_: 0.85
 - **Miku Izayoi** (Order: 9, First Girl: 0, Won: 0)
   - _Justification_: Automatically recovered missing major candidate: Miku Izayoi.
-  - _Hair Color_: Unknown | _Childhood Connection_: None | _Commitment Status_: None | _Confidence Score_: 0.85
+  - _Hair Color_: Blue | _Childhood Connection_: None | _Commitment Status_: None | _Confidence Score_: 0.85
 - **Natsumi** (Order: 10, First Girl: 0, Won: 0)
   - _Justification_: Automatically recovered missing major candidate: Natsumi.
-  - _Hair Color_: Unknown | _Childhood Connection_: None | _Commitment Status_: None | _Confidence Score_: 0.85
+  - _Hair Color_: Green | _Childhood Connection_: None | _Commitment Status_: None | _Confidence Score_: 0.85
 
 ### Strike the Blood (ID 31)
 - **Yukina Himeragi** (Order: 1, First Girl: 1, Won: 1)
   - _Justification_: Automatically recovered missing major candidate: Yukina Himeragi.
-  - _Hair Color_: Unknown | _Childhood Connection_: None | _Commitment Status_: None | _Confidence Score_: 0.85
+  - _Hair Color_: Black | _Childhood Connection_: None | _Commitment Status_: None | _Confidence Score_: 0.85
 - **Asagi Aiba** (Order: 2, First Girl: 0, Won: 0)
   - _Justification_: Automatically recovered missing major candidate: Asagi Aiba.
-  - _Hair Color_: Unknown | _Childhood Connection_: None | _Commitment Status_: None | _Confidence Score_: 0.85
+  - _Hair Color_: Blonde | _Childhood Connection_: None | _Commitment Status_: None | _Confidence Score_: 0.85
 - **Sayaka Kirasaka** (Order: 3, First Girl: 0, Won: 0)
   - _Justification_: Automatically recovered missing major candidate: Sayaka Kirasaka.
-  - _Hair Color_: Unknown | _Childhood Connection_: None | _Commitment Status_: None | _Confidence Score_: 0.85
+  - _Hair Color_: Brown | _Childhood Connection_: None | _Commitment Status_: None | _Confidence Score_: 0.85
 
 ### Seirei Tsukai no Blade Dance (ID 32)
 - **Claire Rouge** (Order: 1, First Girl: 1, Won: 0)
@@ -663,7 +664,7 @@ A detailed list of candidates, their curated fields (introduction_order, first_g
   - _Hair Color_: Brown | _Childhood Connection_: Childhood Friend | _Commitment Status_: None | _Confidence Score_: 0.95
 - **Ageha** (Order: 6, First Girl: 0, Won: 0)
   - _Justification_: Automatically recovered missing major candidate: Ageha.
-  - _Hair Color_: Unknown | _Childhood Connection_: None | _Commitment Status_: None | _Confidence Score_: 0.85
+  - _Hair Color_: Other | _Childhood Connection_: None | _Commitment Status_: None | _Confidence Score_: 0.85
 
 ### Hundred (ID 35)
 - **Emile Crossfode** (Order: 1, First Girl: 1, Won: 0)
@@ -674,13 +675,13 @@ A detailed list of candidates, their curated fields (introduction_order, first_g
   - _Hair Color_: Blonde | _Childhood Connection_: None | _Commitment Status_: None | _Confidence Score_: 0.9
 - **Sakura Kirishima** (Order: 3, First Girl: 0, Won: 0)
   - _Justification_: Automatically recovered missing major candidate: Sakura Kirishima.
-  - _Hair Color_: Unknown | _Childhood Connection_: None | _Commitment Status_: None | _Confidence Score_: 0.85
+  - _Hair Color_: Pink | _Childhood Connection_: None | _Commitment Status_: None | _Confidence Score_: 0.85
 - **Karen Kisaragi** (Order: 4, First Girl: 0, Won: 0)
   - _Justification_: Automatically recovered missing major candidate: Karen Kisaragi.
-  - _Hair Color_: Unknown | _Childhood Connection_: None | _Commitment Status_: None | _Confidence Score_: 0.85
+  - _Hair Color_: Silver | _Childhood Connection_: None | _Commitment Status_: None | _Confidence Score_: 0.85
 - **Liddy Steinberg** (Order: 5, First Girl: 0, Won: 0)
   - _Justification_: Automatically recovered missing major candidate: Liddy Steinberg.
-  - _Hair Color_: Unknown | _Childhood Connection_: None | _Commitment Status_: None | _Confidence Score_: 0.85
+  - _Hair Color_: Blonde | _Childhood Connection_: None | _Commitment Status_: None | _Confidence Score_: 0.85
 
 ### Absolute Duo (ID 36)
 - **Julie Sigtuna** (Order: 1, First Girl: 1, Won: 0)
@@ -697,7 +698,7 @@ A detailed list of candidates, their curated fields (introduction_order, first_g
   - _Hair Color_: Black | _Childhood Connection_: None | _Commitment Status_: None | _Confidence Score_: 1.0
 - **Rito Tsukimi** (Order: 5, First Girl: 0, Won: 0)
   - _Justification_: Automatically recovered missing major candidate: Rito Tsukimi.
-  - _Hair Color_: Unknown | _Childhood Connection_: None | _Commitment Status_: None | _Confidence Score_: 0.85
+  - _Hair Color_: Pink | _Childhood Connection_: None | _Commitment Status_: None | _Confidence Score_: 0.85
 
 ### Koi to Senkyo to Chocolate (ID 37)
 - **Chisato Sumiyoshi** (Order: 1, First Girl: 1, Won: 0)
@@ -717,7 +718,7 @@ A detailed list of candidates, their curated fields (introduction_order, first_g
   - _Hair Color_: Black | _Childhood Connection_: None | _Commitment Status_: None | _Confidence Score_: 0.95
 - **Oba Michiru** (Order: 6, First Girl: 0, Won: 0)
   - _Justification_: Automatically recovered missing major candidate: Oba Michiru.
-  - _Hair Color_: Unknown | _Childhood Connection_: None | _Commitment Status_: None | _Confidence Score_: 0.85
+  - _Hair Color_: Brown | _Childhood Connection_: None | _Commitment Status_: None | _Confidence Score_: 0.85
 
 ### Rakudai Kishi no Cavalry (ID 38)
 - **Stella Vermillion** (Order: 1, First Girl: 1, Won: 1)
@@ -725,13 +726,13 @@ A detailed list of candidates, their curated fields (introduction_order, first_g
   - _Hair Color_: Red | _Childhood Connection_: None | _Commitment Status_: Engagement | _Confidence Score_: 1.0
 - **Shizuku Kurogane** (Order: 2, First Girl: 0, Won: 0)
   - _Justification_: Automatically recovered missing major candidate: Shizuku Kurogane.
-  - _Hair Color_: Unknown | _Childhood Connection_: None | _Commitment Status_: None | _Confidence Score_: 0.85
+  - _Hair Color_: Silver | _Childhood Connection_: None | _Commitment Status_: None | _Confidence Score_: 0.85
 - **Ayase Ayatsuji** (Order: 3, First Girl: 0, Won: 0)
   - _Justification_: Automatically recovered missing major candidate: Ayase Ayatsuji.
-  - _Hair Color_: Unknown | _Childhood Connection_: None | _Commitment Status_: None | _Confidence Score_: 0.85
+  - _Hair Color_: Black | _Childhood Connection_: None | _Commitment Status_: None | _Confidence Score_: 0.85
 - **Nene Saikyo** (Order: 4, First Girl: 0, Won: 0)
   - _Justification_: Automatically recovered missing major candidate: Nene Saikyo.
-  - _Hair Color_: Unknown | _Childhood Connection_: None | _Commitment Status_: None | _Confidence Score_: 0.85
+  - _Hair Color_: Pink | _Childhood Connection_: None | _Commitment Status_: None | _Confidence Score_: 0.85
 
 ### Shakugan no Shana (ID 39)
 - **Shana** (Order: 1, First Girl: 1, Won: 1)
@@ -759,10 +760,10 @@ A detailed list of candidates, their curated fields (introduction_order, first_g
   - _Hair Color_: Red | _Childhood Connection_: None | _Commitment Status_: None | _Confidence Score_: 1.0
 - **Tabitha** (Order: 6, First Girl: 0, Won: 0)
   - _Justification_: Automatically recovered missing major candidate: Tabitha.
-  - _Hair Color_: Unknown | _Childhood Connection_: None | _Commitment Status_: None | _Confidence Score_: 0.85
+  - _Hair Color_: Blue | _Childhood Connection_: None | _Commitment Status_: None | _Confidence Score_: 0.85
 - **Montmorency Margarita la Fère de Montmorency** (Order: 7, First Girl: 0, Won: 0)
   - _Justification_: Automatically recovered missing major candidate: Montmorency Margarita la Fère de Montmorency.
-  - _Hair Color_: Unknown | _Childhood Connection_: None | _Commitment Status_: None | _Confidence Score_: 0.85
+  - _Hair Color_: Blonde | _Childhood Connection_: None | _Commitment Status_: None | _Confidence Score_: 0.85
 
 ### Rascal Does Not Dream of Bunny Girl Senpai (ID 41)
 - **Mai Sakurajima** (Order: 1, First Girl: 1, Won: 1)
@@ -773,16 +774,16 @@ A detailed list of candidates, their curated fields (introduction_order, first_g
   - _Hair Color_: Brown | _Childhood Connection_: None | _Commitment Status_: None | _Confidence Score_: 0.95
 - **Rio Futaba** (Order: 3, First Girl: 0, Won: 0)
   - _Justification_: Automatically recovered missing major candidate: Rio Futaba.
-  - _Hair Color_: Unknown | _Childhood Connection_: None | _Commitment Status_: None | _Confidence Score_: 0.85
+  - _Hair Color_: Brown | _Childhood Connection_: None | _Commitment Status_: None | _Confidence Score_: 0.85
 - **Kaede Azusagawa** (Order: 4, First Girl: 0, Won: 0)
   - _Justification_: Automatically recovered missing major candidate: Kaede Azusagawa.
-  - _Hair Color_: Unknown | _Childhood Connection_: None | _Commitment Status_: None | _Confidence Score_: 0.85
+  - _Hair Color_: Brown | _Childhood Connection_: None | _Commitment Status_: None | _Confidence Score_: 0.85
 - **Nodoka Toyohama** (Order: 5, First Girl: 0, Won: 0)
   - _Justification_: Automatically recovered missing major candidate: Nodoka Toyohama.
-  - _Hair Color_: Unknown | _Childhood Connection_: None | _Commitment Status_: None | _Confidence Score_: 0.85
+  - _Hair Color_: Blonde | _Childhood Connection_: None | _Commitment Status_: None | _Confidence Score_: 0.85
 - **Shoko Makinohara** (Order: 6, First Girl: 0, Won: 0)
   - _Justification_: Automatically recovered missing major candidate: Shoko Makinohara.
-  - _Hair Color_: Unknown | _Childhood Connection_: None | _Commitment Status_: None | _Confidence Score_: 0.85
+  - _Hair Color_: Black | _Childhood Connection_: None | _Commitment Status_: None | _Confidence Score_: 0.85
 
 ### Re:Zero − Starting Life in Another World (ID 42)
 - **Emilia** (Order: 1, First Girl: 1, Won: 0)
@@ -790,10 +791,10 @@ A detailed list of candidates, their curated fields (introduction_order, first_g
   - _Hair Color_: Silver | _Childhood Connection_: None | _Commitment Status_: None | _Confidence Score_: 1.0
 - **Rem** (Order: 2, First Girl: 0, Won: 0)
   - _Justification_: Automatically recovered missing major candidate: Rem.
-  - _Hair Color_: Unknown | _Childhood Connection_: None | _Commitment Status_: None | _Confidence Score_: 0.85
+  - _Hair Color_: Blue | _Childhood Connection_: None | _Commitment Status_: None | _Confidence Score_: 0.85
 - **Ram** (Order: 3, First Girl: 0, Won: 0)
   - _Justification_: Automatically recovered missing major candidate: Ram.
-  - _Hair Color_: Unknown | _Childhood Connection_: None | _Commitment Status_: None | _Confidence Score_: 0.85
+  - _Hair Color_: Pink | _Childhood Connection_: None | _Commitment Status_: None | _Confidence Score_: 0.85
 
 ### Monogatari Series (ID 43)
 - **Hitagi Senjougahara** (Order: 1, First Girl: 1, Won: 1)
@@ -810,19 +811,19 @@ A detailed list of candidates, their curated fields (introduction_order, first_g
   - _Hair Color_: Brown | _Childhood Connection_: None | _Commitment Status_: None | _Confidence Score_: 0.95
 - **Shinobu Oshino** (Order: 5, First Girl: 0, Won: 0)
   - _Justification_: Automatically recovered missing major candidate: Shinobu Oshino.
-  - _Hair Color_: Unknown | _Childhood Connection_: None | _Commitment Status_: None | _Confidence Score_: 0.85
+  - _Hair Color_: Blonde | _Childhood Connection_: None | _Commitment Status_: None | _Confidence Score_: 0.85
 - **Mayoi Hachikuji** (Order: 6, First Girl: 0, Won: 0)
   - _Justification_: Automatically recovered missing major candidate: Mayoi Hachikuji.
-  - _Hair Color_: Unknown | _Childhood Connection_: None | _Commitment Status_: None | _Confidence Score_: 0.85
+  - _Hair Color_: Black | _Childhood Connection_: None | _Commitment Status_: None | _Confidence Score_: 0.85
 - **Karen Araragi** (Order: 7, First Girl: 0, Won: 0)
   - _Justification_: Automatically recovered missing major candidate: Karen Araragi.
-  - _Hair Color_: Unknown | _Childhood Connection_: None | _Commitment Status_: None | _Confidence Score_: 0.85
+  - _Hair Color_: Black | _Childhood Connection_: None | _Commitment Status_: None | _Confidence Score_: 0.85
 - **Tsukihi Araragi** (Order: 8, First Girl: 0, Won: 0)
   - _Justification_: Automatically recovered missing major candidate: Tsukihi Araragi.
-  - _Hair Color_: Unknown | _Childhood Connection_: None | _Commitment Status_: None | _Confidence Score_: 0.85
+  - _Hair Color_: Black | _Childhood Connection_: None | _Commitment Status_: None | _Confidence Score_: 0.85
 - **Sodachi Oikura** (Order: 9, First Girl: 0, Won: 0)
   - _Justification_: Automatically recovered missing major candidate: Sodachi Oikura.
-  - _Hair Color_: Unknown | _Childhood Connection_: None | _Commitment Status_: None | _Confidence Score_: 0.85
+  - _Hair Color_: Black | _Childhood Connection_: None | _Commitment Status_: None | _Confidence Score_: 0.85
 
 ### Haganai (Boku wa Tomodachi ga Sukunai) (ID 44)
 - **Yozora Mikazuki** (Order: 1, First Girl: 1, Won: 0)
@@ -839,10 +840,10 @@ A detailed list of candidates, their curated fields (introduction_order, first_g
   - _Hair Color_: Black | _Childhood Connection_: None | _Commitment Status_: None | _Confidence Score_: 0.9
 - **Kobato Hasegawa** (Order: 5, First Girl: 0, Won: 0)
   - _Justification_: Automatically recovered missing major candidate: Kobato Hasegawa.
-  - _Hair Color_: Unknown | _Childhood Connection_: None | _Commitment Status_: None | _Confidence Score_: 0.85
+  - _Hair Color_: Blonde | _Childhood Connection_: None | _Commitment Status_: None | _Confidence Score_: 0.85
 - **Maria Takayama** (Order: 6, First Girl: 0, Won: 0)
   - _Justification_: Automatically recovered missing major candidate: Maria Takayama.
-  - _Hair Color_: Unknown | _Childhood Connection_: None | _Commitment Status_: None | _Confidence Score_: 0.85
+  - _Hair Color_: Silver | _Childhood Connection_: None | _Commitment Status_: None | _Confidence Score_: 0.85
 
 ### Oreshura (Ore no Kanojo to Osananajimi ga Sh修羅場 Sugiru) (ID 45)
 - **Masuzu Natsukawa** (Order: 1, First Girl: 1, Won: 0)
@@ -864,25 +865,25 @@ A detailed list of candidates, their curated fields (introduction_order, first_g
   - _Hair Color_: Silver | _Childhood Connection_: None | _Commitment Status_: None | _Confidence Score_: 0.95
 - **Lilith Asami** (Order: 5, First Girl: 1, Won: 0)
   - _Justification_: Automatically recovered missing major candidate: Lilith Asami.
-  - _Hair Color_: Unknown | _Childhood Connection_: None | _Commitment Status_: None | _Confidence Score_: 0.85
+  - _Hair Color_: Red | _Childhood Connection_: None | _Commitment Status_: None | _Confidence Score_: 0.85
 - **Arata Kasuga** (Order: 6, First Girl: 0, Won: 0)
   - _Justification_: Automatically recovered missing major candidate: Arata Kasuga.
-  - _Hair Color_: Unknown | _Childhood Connection_: None | _Commitment Status_: None | _Confidence Score_: 0.85
+  - _Hair Color_: Black | _Childhood Connection_: None | _Commitment Status_: None | _Confidence Score_: 0.85
 - **Arin Kannazuki** (Order: 7, First Girl: 0, Won: 0)
   - _Justification_: Automatically recovered missing major candidate: Arin Kannazuki.
-  - _Hair Color_: Unknown | _Childhood Connection_: None | _Commitment Status_: None | _Confidence Score_: 0.85
+  - _Hair Color_: Blue | _Childhood Connection_: None | _Commitment Status_: None | _Confidence Score_: 0.85
 - **Levi Kazama** (Order: 8, First Girl: 0, Won: 0)
   - _Justification_: Automatically recovered missing major candidate: Levi Kazama.
-  - _Hair Color_: Unknown | _Childhood Connection_: None | _Commitment Status_: None | _Confidence Score_: 0.85
+  - _Hair Color_: Brown | _Childhood Connection_: None | _Commitment Status_: None | _Confidence Score_: 0.85
 - **Mira Yamana** (Order: 9, First Girl: 0, Won: 0)
   - _Justification_: Automatically recovered missing major candidate: Mira Yamana.
-  - _Hair Color_: Unknown | _Childhood Connection_: None | _Commitment Status_: None | _Confidence Score_: 0.85
+  - _Hair Color_: Silver | _Childhood Connection_: None | _Commitment Status_: None | _Confidence Score_: 0.85
 - **Akio Fudo** (Order: 10, First Girl: 0, Won: 0)
   - _Justification_: Automatically recovered missing major candidate: Akio Fudo.
-  - _Hair Color_: Unknown | _Childhood Connection_: None | _Commitment Status_: None | _Confidence Score_: 0.85
+  - _Hair Color_: Other | _Childhood Connection_: None | _Commitment Status_: None | _Confidence Score_: 0.85
 - **Yui Kurata** (Order: 11, First Girl: 0, Won: 0)
   - _Justification_: Automatically recovered missing major candidate: Yui Kurata.
-  - _Hair Color_: Unknown | _Childhood Connection_: None | _Commitment Status_: None | _Confidence Score_: 0.85
+  - _Hair Color_: Purple | _Childhood Connection_: None | _Commitment Status_: None | _Confidence Score_: 0.85
 
 ### Infinite Stratos (ID 47)
 - **Houki Shinonono** (Order: 1, First Girl: 1, Won: 0)
@@ -902,10 +903,10 @@ A detailed list of candidates, their curated fields (introduction_order, first_g
   - _Hair Color_: Silver | _Childhood Connection_: None | _Commitment Status_: None | _Confidence Score_: 1.0
 - **Tatenashi Sarashiki** (Order: 6, First Girl: 0, Won: 0)
   - _Justification_: Automatically recovered missing major candidate: Tatenashi Sarashiki.
-  - _Hair Color_: Unknown | _Childhood Connection_: None | _Commitment Status_: None | _Confidence Score_: 0.85
+  - _Hair Color_: Blue | _Childhood Connection_: None | _Commitment Status_: None | _Confidence Score_: 0.85
 - **Kanzashi Sarashiki** (Order: 7, First Girl: 0, Won: 0)
   - _Justification_: Automatically recovered missing major candidate: Kanzashi Sarashiki.
-  - _Hair Color_: Unknown | _Childhood Connection_: None | _Commitment Status_: None | _Confidence Score_: 0.85
+  - _Hair Color_: Purple | _Childhood Connection_: None | _Commitment Status_: None | _Confidence Score_: 0.85
 
 ### A Couple of Cuckoos (ID 48)
 - **Erika Amano** (Order: 1, First Girl: 1, Won: 0)
@@ -958,10 +959,10 @@ A detailed list of candidates, their curated fields (introduction_order, first_g
   - _Hair Color_: Black | _Childhood Connection_: None | _Commitment Status_: None | _Confidence Score_: 0.95
 - **Sho Iketani** (Order: 3, First Girl: 0, Won: 0)
   - _Justification_: Automatically recovered missing major candidate: Sho Iketani.
-  - _Hair Color_: Unknown | _Childhood Connection_: None | _Commitment Status_: None | _Confidence Score_: 0.85
+  - _Hair Color_: Black | _Childhood Connection_: None | _Commitment Status_: None | _Confidence Score_: 0.85
 - **Misa Kawakami** (Order: 4, First Girl: 0, Won: 0)
   - _Justification_: Automatically recovered missing major candidate: Misa Kawakami.
-  - _Hair Color_: Unknown | _Childhood Connection_: None | _Commitment Status_: None | _Confidence Score_: 0.85
+  - _Hair Color_: Black | _Childhood Connection_: None | _Commitment Status_: None | _Confidence Score_: 0.85
 
 ### Bokura wa Minna Kawaisou (ID 52)
 - **Ritsu Kawai** (Order: 1, First Girl: 1, Won: 1)
@@ -969,10 +970,10 @@ A detailed list of candidates, their curated fields (introduction_order, first_g
   - _Hair Color_: Black | _Childhood Connection_: None | _Commitment Status_: None | _Confidence Score_: 1.0
 - **Sayaka Watanabe** (Order: 2, First Girl: 0, Won: 0)
   - _Justification_: Automatically recovered missing major candidate: Sayaka Watanabe.
-  - _Hair Color_: Unknown | _Childhood Connection_: None | _Commitment Status_: None | _Confidence Score_: 0.85
+  - _Hair Color_: Other | _Childhood Connection_: None | _Commitment Status_: None | _Confidence Score_: 0.85
 - **Mayumi Nishikino** (Order: 3, First Girl: 0, Won: 0)
   - _Justification_: Automatically recovered missing major candidate: Mayumi Nishikino.
-  - _Hair Color_: Unknown | _Childhood Connection_: None | _Commitment Status_: None | _Confidence Score_: 0.85
+  - _Hair Color_: Purple | _Childhood Connection_: None | _Commitment Status_: None | _Confidence Score_: 0.85
 
 ### The Pet Girl of Sakurasou (ID 53)
 - **Mashiro Shiina** (Order: 1, First Girl: 1, Won: 1)
@@ -983,10 +984,10 @@ A detailed list of candidates, their curated fields (introduction_order, first_g
   - _Hair Color_: Brown | _Childhood Connection_: None | _Commitment Status_: None | _Confidence Score_: 1.0
 - **Misaki Kamiigusa** (Order: 3, First Girl: 0, Won: 0)
   - _Justification_: Automatically recovered missing major candidate: Misaki Kamiigusa.
-  - _Hair Color_: Unknown | _Childhood Connection_: None | _Commitment Status_: None | _Confidence Score_: 0.85
+  - _Hair Color_: Brown | _Childhood Connection_: None | _Commitment Status_: None | _Confidence Score_: 0.85
 - **Rita Ainsworth** (Order: 4, First Girl: 0, Won: 0)
   - _Justification_: Automatically recovered missing major candidate: Rita Ainsworth.
-  - _Hair Color_: Unknown | _Childhood Connection_: None | _Commitment Status_: None | _Confidence Score_: 0.85
+  - _Hair Color_: Blonde | _Childhood Connection_: None | _Commitment Status_: None | _Confidence Score_: 0.85
 
 ### Hentai Prince and Stony Cat (ID 54)
 - **Tsukiko Tsutsukakushi** (Order: 1, First Girl: 1, Won: 0)
@@ -1030,7 +1031,7 @@ A detailed list of candidates, their curated fields (introduction_order, first_g
   - _Hair Color_: Purple | _Childhood Connection_: None | _Commitment Status_: None | _Confidence Score_: 1.0
 - **Yukine Miyazawa** (Order: 7, First Girl: 0, Won: 0)
   - _Justification_: Automatically recovered missing major candidate: Yukine Miyazawa.
-  - _Hair Color_: Unknown | _Childhood Connection_: None | _Commitment Status_: None | _Confidence Score_: 0.85
+  - _Hair Color_: Brown | _Childhood Connection_: None | _Commitment Status_: None | _Confidence Score_: 0.85
 
 ### Kanon (ID 58)
 - **Ayu Tsukimiya** (Order: 1, First Girl: 1, Won: 0)
@@ -1105,24 +1106,18 @@ A detailed list of candidates, their curated fields (introduction_order, first_g
   - _Hair Color_: Brown | _Childhood Connection_: None | _Commitment Status_: None | _Confidence Score_: 0.9
 
 ### Lovely★Complex (ID 64)
-- **Mimi Yoshioka** (Order: 2, First Girl: 0, Won: 0)
-  - _Justification_: A minor romantic interest/rival for the protagonist, not the main heroine.
+- **Atsushi Otani** (Order: 1, First Girl: 1, Won: 1)
+  - _Justification_: Risa's main love interest who is short and acts tsundere, but eventually falls in love with and marries her in the manga ending.
+  - _Hair Color_: Other | _Childhood Connection_: None | _Commitment Status_: Marriage | _Confidence Score_: 1.0
+- **Haruka Fukagawa** (Order: 2, First Girl: 0, Won: 0)
+  - _Justification_: Risa's childhood friend who returns and declares his obsessive love for her, but is rejected.
+  - _Hair Color_: Blonde | _Childhood Connection_: Childhood Friend | _Commitment Status_: None | _Confidence Score_: 0.95
+- **Kazuki Kohori** (Order: 3, First Girl: 0, Won: 0)
+  - _Justification_: Risa's younger classmate and co-worker who falls in love with her and tries to win her heart.
+  - _Hair Color_: Brown | _Childhood Connection_: None | _Commitment Status_: None | _Confidence Score_: 0.95
+- **Maitake Kuniumi** (Order: 4, First Girl: 0, Won: 0)
+  - _Justification_: A handsome teacher who Risa and other girls have a major crush on, but acts as a mentor.
   - _Hair Color_: Brown | _Childhood Connection_: None | _Commitment Status_: None | _Confidence Score_: 0.9
-- **Seishirou Kotobuki** (Order: 99, First Girl: 0, Won: 0)
-  - _Justification_: Omitted by Gemini during curation; backfilled with defaults.
-  - _Hair Color_: Black | _Childhood Connection_: None | _Commitment Status_: None | _Confidence Score_: 0.5
-- **Kazuki Kohori** (Order: 99, First Girl: 0, Won: 0)
-  - _Justification_: Omitted by Gemini during curation; backfilled with defaults.
-  - _Hair Color_: Brown | _Childhood Connection_: None | _Commitment Status_: None | _Confidence Score_: 0.5
-- **Maitake Kuniumi** (Order: 99, First Girl: 0, Won: 0)
-  - _Justification_: Omitted by Gemini during curation; backfilled with defaults.
-  - _Hair Color_: Black | _Childhood Connection_: None | _Commitment Status_: None | _Confidence Score_: 0.5
-- **Haruka Fukagawa** (Order: 99, First Girl: 0, Won: 0)
-  - _Justification_: Omitted by Gemini during curation; backfilled with defaults.
-  - _Hair Color_: Brown | _Childhood Connection_: Childhood Friend | _Commitment Status_: None | _Confidence Score_: 0.5
-- **Risa Koizumi** (Order: 100, First Girl: 1, Won: 1)
-  - _Justification_: Automatically recovered missing major candidate: Risa Koizumi.
-  - _Hair Color_: Unknown | _Childhood Connection_: None | _Commitment Status_: None | _Confidence Score_: 0.85
 
 ### Kare Kano (His and Her Circumstances) (ID 65)
 - **Soichiro Arima** (Order: 1, First Girl: 1, Won: 1)

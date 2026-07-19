@@ -1,5 +1,9 @@
 import os
+import sys
 import pandas as pd
+
+# Reconfigure stdout to use UTF-8 globally to prevent Windows console encoding crashes
+sys.stdout.reconfigure(encoding='utf-8')
 
 # Define paths
 STORIES_FILE = "data/stories_cleaned.xlsx"
@@ -63,7 +67,7 @@ def main():
                 "introduction_order": 2,
                 "childhood_connection": "Childhood Friend",
                 "commitment_status": "None",
-                "primary_archetype": "Mixed",
+                "primary_archetype": "Kuudere",
                 "hair_color": "Blonde",
                 "confidence_score": 0.95,
                 "reasoning": "Hikari's childhood friend who harbor romantic feelings for her but loses to Kei."
@@ -104,7 +108,7 @@ def main():
                 "introduction_order": 3,
                 "childhood_connection": "None",
                 "commitment_status": "None",
-                "primary_archetype": "Mixed",
+                "primary_archetype": "Dandere",
                 "hair_color": "Brown",
                 "confidence_score": 0.95,
                 "reasoning": "Hikaru's twin who also has feelings for Haruhi but prioritizes his brother's and Tamaki's happiness."
@@ -192,6 +196,60 @@ def main():
                 "reasoning": "Sawako's classmate who briefly shows romantic interest but later supports her relationship with Kazehaya."
             }
         ],
+        64: [ # Lovely★Complex
+            {
+                "candidate_name": "Atsushi Otani",
+                "candidate_gender": "Male",
+                "won": 1,
+                "first_girl": 1,
+                "introduction_order": 1,
+                "childhood_connection": "None",
+                "commitment_status": "Marriage",
+                "primary_archetype": "Tsundere",
+                "hair_color": "Other",
+                "confidence_score": 1.00,
+                "reasoning": "Risa's main love interest who is short and acts tsundere, but eventually falls in love with and marries her in the manga ending."
+            },
+            {
+                "candidate_name": "Haruka Fukagawa",
+                "candidate_gender": "Male",
+                "won": 0,
+                "first_girl": 0,
+                "introduction_order": 2,
+                "childhood_connection": "Childhood Friend",
+                "commitment_status": "None",
+                "primary_archetype": "Deredere",
+                "hair_color": "Blonde",
+                "confidence_score": 0.95,
+                "reasoning": "Risa's childhood friend who returns and declares his obsessive love for her, but is rejected."
+            },
+            {
+                "candidate_name": "Kazuki Kohori",
+                "candidate_gender": "Male",
+                "won": 0,
+                "first_girl": 0,
+                "introduction_order": 3,
+                "childhood_connection": "None",
+                "commitment_status": "None",
+                "primary_archetype": "Genki",
+                "hair_color": "Brown",
+                "confidence_score": 0.95,
+                "reasoning": "Risa's younger classmate and co-worker who falls in love with her and tries to win her heart."
+            },
+            {
+                "candidate_name": "Maitake Kuniumi",
+                "candidate_gender": "Male",
+                "won": 0,
+                "first_girl": 0,
+                "introduction_order": 4,
+                "childhood_connection": "None",
+                "commitment_status": "None",
+                "primary_archetype": "Onee-san",
+                "hair_color": "Brown",
+                "confidence_score": 0.90,
+                "reasoning": "A handsome teacher who Risa and other girls have a major crush on, but acts as a mentor."
+            }
+        ],
         65: [ # Kare Kano (His and Her Circumstances)
             {
                 "candidate_name": "Soichiro Arima",
@@ -229,7 +287,7 @@ def main():
                 "introduction_order": 1,
                 "childhood_connection": "None",
                 "commitment_status": "Marriage",
-                "primary_archetype": "Mixed",
+                "primary_archetype": "Dandere",
                 "hair_color": "Brown",
                 "confidence_score": 1.00,
                 "reasoning": "Yamada's main love interest who she eventually marries."
@@ -302,7 +360,18 @@ def main():
     for sid, c_list in shoujo_overrides.items():
         for c in c_list:
             c_id = f"C{next_candidate_num:04d}"
-            new_rows.append({
+            
+            # Preserve existing validated validation columns if present
+            app_order = pd.NA
+            app_chap = pd.NA
+            existing_match = df_c[(df_c["story_id"] == sid) & (df_c["candidate_name"].str.lower() == c["candidate_name"].lower())]
+            if not existing_match.empty:
+                if "appearance_order" in df_c.columns:
+                    app_order = existing_match.iloc[0].get("appearance_order", pd.NA)
+                if "first_chapter_or_episode" in df_c.columns:
+                    app_chap = existing_match.iloc[0].get("first_chapter_or_episode", pd.NA)
+            
+            new_row = {
                 "candidate_id": c_id,
                 "story_id": sid,
                 "candidate_name": c["candidate_name"],
@@ -316,7 +385,13 @@ def main():
                 "hair_color": c["hair_color"],
                 "confidence_score": c["confidence_score"],
                 "reasoning": c["reasoning"]
-            })
+            }
+            if "appearance_order" in df_c.columns:
+                new_row["appearance_order"] = app_order
+            if "first_chapter_or_episode" in df_c.columns:
+                new_row["first_chapter_or_episode"] = app_chap
+                
+            new_rows.append(new_row)
             next_candidate_num += 1
             
     df_new = pd.DataFrame(new_rows)
@@ -338,10 +413,19 @@ def main():
     # 5. Run validation assertions
     print("\n--- Validation Assertions Check ---")
     nulls_s = df_s.isnull().sum().sum() + (df_s == "").sum().sum()
-    nulls_c = df_c_final.isnull().sum().sum() + (df_c_final == "").sum().sum()
+    
+    # Exclude incrementally populated validation columns from the strict null check
+    core_cols = [
+        'candidate_id', 'story_id', 'candidate_name', 'candidate_gender', 
+        'won', 'first_girl', 'introduction_order', 'childhood_connection', 
+        'commitment_status', 'primary_archetype', 'hair_color', 'confidence_score', 'reasoning'
+    ]
+    cols_to_check = [col for col in core_cols if col in df_c_final.columns]
+    nulls_c = df_c_final[cols_to_check].isnull().sum().sum() + (df_c_final[cols_to_check] == "").sum().sum()
+    
     print(f"Blank/empty cells in stories: {nulls_s}")
-    print(f"Blank/empty cells in candidates: {nulls_c}")
-    assert nulls_c == 0, "Error: Blank/empty cells exist in candidate list!"
+    print(f"Blank/empty cells in candidates (core columns): {nulls_c}")
+    assert nulls_c == 0, "Error: Blank/empty cells exist in candidate list core columns!"
     
     mismatches = 0
     winner_violations = 0

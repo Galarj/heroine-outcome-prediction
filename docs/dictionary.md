@@ -41,7 +41,8 @@ This table contains records for all romantic candidates/love interests within th
 | **`childhood_connection`**| Category | The prior relationship status before the main story timeline. | `None`, `Childhood Friend`, `Childhood Promise`, `Acquaintance`, `Unknown` |
 | **`commitment_status`** | Category | Romantic status anchors established during the story. | `None`, `Promise`, `Engagement`, `Marriage`, `Unknown` |
 | **`primary_archetype`** | Category | The primary "Dere" personality archetype of the character. | `Tsundere`, `Kuudere`, `Dandere`, `Genki`, `Deredere`, `Onee-san`, `Yandere` |
-| **`hair_color`** | Category | The primary hair color of the character. | `Black`, `Brown`, `Blonde`, `Red`, `Blue`, `Pink`, `Silver`, `White`, `Green`, `Purple`, `Other` |
+| **`hair_color`** | Category | The primary hair color of the character. | `Black`, `Brown`, `Blonde`, `Red`, `Blue`, `Pink`, `Silver`, `White`, `Green`, `Purple`, `Orange`, `Other` |
+
 | **`confidence_score`** | Float | Level of confidence in the curation details. | Range: `0.0` to `1.0` |
 | **`reasoning`** | String | Brief narrative justification explaining their introduction, connection, and ending. | e.g. detailed narrative explanation text |
 | **`first_chapter_or_episode`** | String | The exact chapter or episode of their first appearance. | e.g., `Chapter 1`, `Episode 1` |

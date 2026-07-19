@@ -14,7 +14,7 @@ VALIDATION_REPORT_FILE = "validation_report.md"
 ALLOWED_CONNECTIONS = {"None", "Acquaintance", "Childhood Friend", "Childhood Promise", "Unknown"}
 ALLOWED_COMMITMENTS = {"None", "Promise", "Engagement", "Marriage", "Unknown"}
 ALLOWED_ARCHETYPES = {"Tsundere", "Kuudere", "Dandere", "Genki", "Yandere", "Deredere", "Onee-san", "Mixed", "Unknown"}
-ALLOWED_HAIR_COLORS = {"Black", "Brown", "Blonde", "Red", "Blue", "Pink", "Silver", "White", "Green", "Purple", "Other", "Unknown"}
+ALLOWED_HAIR_COLORS = {"Black", "Brown", "Blonde", "Red", "Blue", "Pink", "Silver", "White", "Green", "Purple", "Orange", "Other", "Unknown"}
 
 def main():
     print("=== Post-Cleaning Shoujo/Harem Romance Media ===")
@@ -206,7 +206,7 @@ def main():
                 "childhood_connection": "None",
                 "commitment_status": "Marriage",
                 "primary_archetype": "Tsundere",
-                "hair_color": "Other",
+                "hair_color": "Orange",
                 "confidence_score": 1.00,
                 "reasoning": "Risa's main love interest who is short and acts tsundere, but eventually falls in love with and marries her in the manga ending."
             },

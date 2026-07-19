@@ -139,7 +139,7 @@ A detailed list of candidates, their curated fields (introduction_order, first_g
   - _Hair Color_: Blue | _Childhood Connection_: None | _Commitment Status_: None | _Confidence Score_: 1.0
 - **Marika Tachibana** (Order: 4, First Girl: 0, Won: 0)
   - _Justification_: Introduced later in the series, holds a childhood promise, does not win.
-  - _Hair Color_: Other | _Childhood Connection_: Childhood Promise | _Commitment Status_: None | _Confidence Score_: 1.0
+  - _Hair Color_: Orange | _Childhood Connection_: Childhood Promise | _Commitment Status_: None | _Confidence Score_: 1.0
 - **Yui Kanakura** (Order: 5, First Girl: 0, Won: 0)
   - _Justification_: Automatically recovered missing major candidate: Yui Kanakura.
   - _Hair Color_: Black | _Childhood Connection_: None | _Commitment Status_: None | _Confidence Score_: 0.85
@@ -156,7 +156,7 @@ A detailed list of candidates, their curated fields (introduction_order, first_g
   - _Hair Color_: Brown | _Childhood Connection_: None | _Commitment Status_: None | _Confidence Score_: 1.0
 - **Yotsuba Nakano** (Order: 4, First Girl: 0, Won: 1)
   - _Justification_: Confirmed as the girl from the childhood promise and the canonical winner.
-  - _Hair Color_: Other | _Childhood Connection_: Childhood Promise | _Commitment Status_: Marriage | _Confidence Score_: 1.0
+  - _Hair Color_: Orange | _Childhood Connection_: Childhood Promise | _Commitment Status_: Marriage | _Confidence Score_: 1.0
 - **Itsuki Nakano** (Order: 5, First Girl: 1, Won: 0)
   - _Justification_: Fifth sister, but the first to interact with the protagonist in the opening chapter.
   - _Hair Color_: Red | _Childhood Connection_: None | _Commitment Status_: None | _Confidence Score_: 1.0
@@ -425,7 +425,7 @@ A detailed list of candidates, their curated fields (introduction_order, first_g
   - _Hair Color_: Brown | _Childhood Connection_: None | _Commitment Status_: None | _Confidence Score_: 0.85
 - **Kojuurou Shuri** (Order: 5, First Girl: 0, Won: 0)
   - _Justification_: Automatically recovered missing major candidate: Kojuurou Shuri.
-  - _Hair Color_: Other | _Childhood Connection_: None | _Commitment Status_: None | _Confidence Score_: 0.85
+  - _Hair Color_: Orange | _Childhood Connection_: None | _Commitment Status_: None | _Confidence Score_: 0.85
 
 ### Yamada-kun and the Seven Witches (ID 19)
 - **Urara Shiraishi** (Order: 1, First Girl: 1, Won: 1)
@@ -604,10 +604,10 @@ A detailed list of candidates, their curated fields (introduction_order, first_g
   - _Hair Color_: Blue | _Childhood Connection_: None | _Commitment Status_: None | _Confidence Score_: 0.9
 - **Kaguya Yamai** (Order: 7, First Girl: 0, Won: 0)
   - _Justification_: Automatically recovered missing major candidate: Kaguya Yamai.
-  - _Hair Color_: Other | _Childhood Connection_: None | _Commitment Status_: None | _Confidence Score_: 0.85
+  - _Hair Color_: Orange | _Childhood Connection_: None | _Commitment Status_: None | _Confidence Score_: 0.85
 - **Yuzuru Yamai** (Order: 8, First Girl: 0, Won: 0)
   - _Justification_: Automatically recovered missing major candidate: Yuzuru Yamai.
-  - _Hair Color_: Other | _Childhood Connection_: None | _Commitment Status_: None | _Confidence Score_: 0.85
+  - _Hair Color_: Orange | _Childhood Connection_: None | _Commitment Status_: None | _Confidence Score_: 0.85
 - **Miku Izayoi** (Order: 9, First Girl: 0, Won: 0)
   - _Justification_: Automatically recovered missing major candidate: Miku Izayoi.
   - _Hair Color_: Blue | _Childhood Connection_: None | _Commitment Status_: None | _Confidence Score_: 0.85
@@ -664,7 +664,7 @@ A detailed list of candidates, their curated fields (introduction_order, first_g
   - _Hair Color_: Brown | _Childhood Connection_: Childhood Friend | _Commitment Status_: None | _Confidence Score_: 0.95
 - **Ageha** (Order: 6, First Girl: 0, Won: 0)
   - _Justification_: Automatically recovered missing major candidate: Ageha.
-  - _Hair Color_: Other | _Childhood Connection_: None | _Commitment Status_: None | _Confidence Score_: 0.85
+  - _Hair Color_: Orange | _Childhood Connection_: None | _Commitment Status_: None | _Confidence Score_: 0.85
 
 ### Hundred (ID 35)
 - **Emile Crossfode** (Order: 1, First Girl: 1, Won: 0)
@@ -880,7 +880,7 @@ A detailed list of candidates, their curated fields (introduction_order, first_g
   - _Hair Color_: Silver | _Childhood Connection_: None | _Commitment Status_: None | _Confidence Score_: 0.85
 - **Akio Fudo** (Order: 10, First Girl: 0, Won: 0)
   - _Justification_: Automatically recovered missing major candidate: Akio Fudo.
-  - _Hair Color_: Other | _Childhood Connection_: None | _Commitment Status_: None | _Confidence Score_: 0.85
+  - _Hair Color_: Orange | _Childhood Connection_: None | _Commitment Status_: None | _Confidence Score_: 0.85
 - **Yui Kurata** (Order: 11, First Girl: 0, Won: 0)
   - _Justification_: Automatically recovered missing major candidate: Yui Kurata.
   - _Hair Color_: Purple | _Childhood Connection_: None | _Commitment Status_: None | _Confidence Score_: 0.85
@@ -970,7 +970,7 @@ A detailed list of candidates, their curated fields (introduction_order, first_g
   - _Hair Color_: Black | _Childhood Connection_: None | _Commitment Status_: None | _Confidence Score_: 1.0
 - **Sayaka Watanabe** (Order: 2, First Girl: 0, Won: 0)
   - _Justification_: Automatically recovered missing major candidate: Sayaka Watanabe.
-  - _Hair Color_: Other | _Childhood Connection_: None | _Commitment Status_: None | _Confidence Score_: 0.85
+  - _Hair Color_: Orange | _Childhood Connection_: None | _Commitment Status_: None | _Confidence Score_: 0.85
 - **Mayumi Nishikino** (Order: 3, First Girl: 0, Won: 0)
   - _Justification_: Automatically recovered missing major candidate: Mayumi Nishikino.
   - _Hair Color_: Purple | _Childhood Connection_: None | _Commitment Status_: None | _Confidence Score_: 0.85
@@ -1108,7 +1108,7 @@ A detailed list of candidates, their curated fields (introduction_order, first_g
 ### Lovely★Complex (ID 64)
 - **Atsushi Otani** (Order: 1, First Girl: 1, Won: 1)
   - _Justification_: Risa's main love interest who is short and acts tsundere, but eventually falls in love with and marries her in the manga ending.
-  - _Hair Color_: Other | _Childhood Connection_: None | _Commitment Status_: Marriage | _Confidence Score_: 1.0
+  - _Hair Color_: Orange | _Childhood Connection_: None | _Commitment Status_: Marriage | _Confidence Score_: 1.0
 - **Haruka Fukagawa** (Order: 2, First Girl: 0, Won: 0)
   - _Justification_: Risa's childhood friend who returns and declares his obsessive love for her, but is rejected.
   - _Hair Color_: Blonde | _Childhood Connection_: Childhood Friend | _Commitment Status_: None | _Confidence Score_: 0.95

@@ -9,3 +9,10 @@ ANYWAYS I LOVE IT SO MUCH I CAN GET USED TO THIS
 
 at the same time tho like isnt python so OP ?? wdym theres a library for almost everything  isnt that cheating or am i just coping
 
+also im stupid lol
+
+Univariate Analysis → What does my data look like?
+Bivariate Analysis → How are two variables related?
+
+how is this not math wtf  
+AAHAIURHEA

@@ -1,0 +1,302 @@
+﻿candidate_id,story_id,candidate_name,candidate_gender,won,first_girl,introduction_order,childhood_connection,commitment_status,primary_archetype,hair_color,confidence_score,reasoning,appearance_order,first_chapter_or_episode,favorites,story_favorites_rank
+C0001,1,Chitoge Kirisaki,Female,1,1,1,Childhood Promise,Marriage,Tsundere,Blonde,1.0,"Chitoge is the first girl introduced in the manga, holds a childhood promise, and is the canonical winner who marries Raku.",1,Chapter 1,11305,1
+C0002,1,Kosaki Onodera,Female,0,0,2,Childhood Promise,,Deredere,Black,1.0,"Introduced shortly after Chitoge, holds a childhood promise, but does not win.",1,Chapter 1,7715,2
+C0003,1,Seishirou Tsugumi,Female,0,0,3,,,Tsundere,Blue,1.0,"Introduced as a hitman sent to kill Raku, later becomes a romantic interest.",2,Chapter 14,0,4
+C0004,1,Marika Tachibana,Female,0,0,4,Childhood Promise,,Deredere,Orange,1.0,"Introduced later in the series, holds a childhood promise, does not win.",3,Chapter 33,0,4
+C0005,1,Yui Kanakura,Female,0,0,5,,,Deredere,Black,0.85,Automatically recovered missing major candidate: Yui Kanakura.,4,Chapter 118,90,3
+C0006,2,Ichika Nakano,Female,0,0,1,,,Onee-san,Pink,1.0,"Eldest sister, introduced alongside the others, but often listed first in the quintuplet order.",1,Chapter 1,0,1
+C0007,2,Nino Nakano,Female,0,0,2,,,Tsundere,Pink,1.0,"Second sister, aggressive romantic interest.",1,Chapter 1,0,1
+C0008,2,Miku Nakano,Female,0,0,3,,,Dandere,Brown,1.0,"Third sister, shy and reserved.",1,Chapter 1,0,1
+C0009,2,Yotsuba Nakano,Female,1,0,4,Childhood Promise,Marriage,Genki,Orange,1.0,Confirmed as the girl from the childhood promise and the canonical winner.,1,Chapter 1,0,1
+C0010,2,Itsuki Nakano,Female,0,1,5,,,Deredere,Red,1.0,"Fifth sister, but the first to interact with the protagonist in the opening chapter.",1,Chapter 1,0,1
+C0011,3,Eriri Spencer Sawamura,Female,0,1,1,Childhood Friend,,Tsundere,Blonde,1.0,Eriri is the first major heroine introduced as a romantic interest and childhood friend.,1,Episode 1,0,3
+C0012,3,Utaha Kasumigaoka,Female,0,0,2,,,Onee-san,Black,1.0,Utaha is introduced as the second major romantic interest.,1,Episode 1,0,3
+C0013,3,Megumi Kato,Female,1,0,3,,,Kuudere,Brown,1.0,Megumi is the titular heroine and the canonical winner of the series.,1,Episode 1,0,3
+C0014,3,Michiru Hyodo,Female,0,0,4,,,Genki,Black,0.85,Automatically recovered missing major candidate: Michiru Hyodo.,2,Episode 4,3,1
+C0015,3,Izumi Hashima,Female,0,0,5,,,Dandere,Red,0.85,Automatically recovered missing major candidate: Izumi Hashima.,3,Episode 7,2,2
+C0016,4,Ayumi Takahara,Female,0,1,1,,,Genki,Brown,1.0,First major conquest in the series.,1,Chapter 1,1,5
+C0017,4,Kanon Nakagawa,Female,0,0,2,,,Genki,Pink,1.0,Second major conquest.,3,Chapter 11,1,5
+C0018,4,Shiori Shiomiya,Female,0,0,3,,,Dandere,Brown,1.0,Third major conquest.,4,Chapter 23,2,4
+C0019,4,Tsukiyo Kujyo,Female,0,0,4,,,Dandere,Silver,1.0,Fourth major conquest.,9,Chapter 65,1,5
+C0020,4,Tenri Ayukawa,Female,0,0,5,Childhood Promise,,Dandere,Blue,1.0,Childhood friend and goddess host.,6,Chapter 40,0,8
+C0021,4,Yui Goido,Female,0,0,6,,,Deredere,Black,1.0,Sixth major conquest.,8,Chapter 53,0,8
+C0022,4,Mio Aoyama,Female,0,0,7,,,Tsundere,Black,1.0,Seventh major conquest.,2,Chapter 5,0,8
+C0023,4,Kusunoki Kasuga,Female,0,0,8,,,Tsundere,Black,1.0,Eighth major conquest.,5,Chapter 33,4,3
+C0024,4,Kanon Hinoki,Female,0,0,9,,,Genki,Green,0.85,Automatically recovered missing major candidate: Kanon Hinoki.,10,Not Applicable,625,2
+C0025,4,Chihiro Kosaka,Female,0,0,10,,,Deredere,Brown,0.85,Automatically recovered missing major candidate: Chihiro Kosaka.,7,Chapter 41,772,1
+C0026,5,Naru Narusegawa,Female,1,1,1,Childhood Promise,Marriage,Tsundere,Blue,1.0,"Naru is the primary heroine, the first girl introduced, and the canonical winner who marries Keitaro.",1,Chapter 1,728,2
+C0027,5,Shinobu Maehara,Female,0,0,2,,,Dandere,Brown,0.95,"Introduced early as a tenant, but remains a supporting character.",1,Chapter 1,117,7
+C0028,5,Mutsumi Otohime,Female,0,0,3,Childhood Promise,,Dandere,Black,0.95,"Introduced later as a rival for the childhood promise, but does not win.",2,Chapter 13,233,3
+C0029,5,Motoko Aoyama,Female,0,0,4,,,Tsundere,Black,0.95,"Introduced as a tenant and rival, does not win.",1,Chapter 1,145,5
+C0030,5,Kaolla Su,Female,0,0,5,,,Genki,Brown,0.95,"Introduced as a tenant, does not win.",1,Chapter 1,121,6
+C0031,5,Kitsune Konno,Female,0,0,6,Childhood Friend,,Onee-san,Purple,0.95,"Introduced as a tenant and childhood friend, does not win.",1,Chapter 1,149,4
+C0032,5,Kanako Urashima,Female,0,0,7,,,Yandere,Black,0.95,"Introduced late as a stepsister, does not win.",3,Chapter 80,1828,1
+C0033,6,Tsukasa Nishino,Female,1,1,1,,,Deredere,Brown,0.95,The first girl introduced as a romantic interest and the canonical winner of the manga.,1,Chapter 1,121,3
+C0034,6,Aya Toujou,Female,0,0,2,,,Dandere,Black,0.95,A major romantic interest and primary contender throughout the series.,1,Chapter 1,145,2
+C0035,6,Satsuki Kitaooji,Female,0,0,3,,,Genki,Brown,0.95,Introduced as a major romantic rival to Aya and Tsukasa.,2,Chapter 10,149,1
+C0036,6,Itsuki Minami,Female,0,0,4,,,Genki,Brown,0.95,Introduced later in the series as a romantic interest.,3,Chapter 34,73,4
+C0037,6,Yui Amachi,Female,0,0,5,Childhood Friend,,Genki,Brown,0.95,The childhood friend character introduced late in the series.,4,Chapter 59,4,5
+C0038,7,Moka Akashiya,Female,0,1,1,,,Deredere,Pink,1.0,The primary heroine and the first girl introduced to the protagonist.,1,Chapter 1,5,3
+C0039,7,Kurumu Kurono,Female,0,0,2,,,Genki,Blue,1.0,Introduced shortly after Moka as a romantic rival.,2,Chapter 2,32,1
+C0040,7,Yukari Sendo,Female,0,0,3,,,Dandere,Purple,1.0,Introduced as a romantic interest following Kurumu.,3,Chapter 3,1,6
+C0041,7,Mizore Shirayuki,Female,0,0,4,,,Kuudere,Blue,1.0,Introduced as a romantic interest following Yukari.,4,Chapter 14,5,3
+C0042,7,Ruby Tojo,Female,0,0,5,,,Onee-san,Red,1.0,Introduced as a romantic interest following Mizore.,5,Chapter 17,3,5
+C0043,7,Kokoa Shuzen,Female,0,0,6,,,Tsundere,White,1.0,Introduced as a romantic interest following Ruby.,6,"Chapter 27 (Rosario + Vampire Season II, Chapter 1)",16,2
+C0044,8,Yukino Yukinoshita,Female,1,1,1,,,Kuudere,Black,1.0,Yukino is the primary heroine and the canonical winner of the series.,1,"Volume 1, Chapter 1",0,3
+C0045,8,Yui Yuigahama,Female,0,0,2,,,Genki,Pink,1.0,Yui is a major romantic interest introduced shortly after Yukino.,2,"Volume 1, Chapter 2",0,3
+C0046,8,Iroha Isshiki,Female,0,0,3,,,Deredere,Brown,1.0,Iroha is introduced later in the series as a romantic interest.,4,"Volume 7, Chapter 1",0,3
+C0047,8,Shizuka Hiratsuka,Female,0,0,4,,,Onee-san,Black,0.85,Automatically recovered missing major candidate: Shizuka Hiratsuka.,1,"Volume 1, Chapter 1",13,1
+C0048,8,Saki Kawasaki,Female,0,0,5,,,Kuudere,Blue,0.85,Automatically recovered missing major candidate: Saki Kawasaki.,3,"Volume 3, Chapter 1",1,2
+C0049,9,Taiga Aisaka,Female,1,1,1,,Marriage,Tsundere,Brown,1.0,"Taiga is the primary heroine, the first to be introduced as a romantic interest, and the canonical winner who marries the protagonist.",1,Episode 1,14,3
+C0050,9,Minori Kushieda,Female,0,0,2,,,Genki,Red,1.0,Minori is a major romantic interest introduced shortly after the initial plot setup.,1,Episode 1,3111,1
+C0051,9,Ami Kawashima,Female,0,0,3,,,Kuudere,Blue,1.0,Ami is introduced as a romantic interest after the initial arc involving Taiga and Minori.,2,Episode 4,1,5
+C0052,9,Yasuko Takasu,Female,0,0,4,,,Deredere,Blonde,0.85,Automatically recovered missing major candidate: Yasuko Takasu.,99,Unknown,9,4
+C0053,9,Inko,Female,0,0,5,,,Genki,Green,0.85,Automatically recovered missing major candidate: Inko.,99,Unknown,427,2
+C0054,10,Koko Kaga,Female,1,1,1,,Marriage,Deredere,Brown,1.0,"Koko Kaga is the primary heroine and the canonical winner who marries the protagonist, Banri Tada.",1,Episode 1,1,2
+C0055,10,Nana Hayashida,Female,0,0,2,Childhood Friend,,Genki,Brown,1.0,"Nana Hayashida (Linda) is the protagonist's childhood friend and a significant romantic interest, but she does not win.",1,Episode 1,3,1
+C0056,11,Setsuna Ogiso,Female,0,1,1,,,Deredere,Brown,1.0,Setsuna is the first heroine introduced in the opening sequence of the visual novel and is considered the primary heroine of the Introductory Chapter.,1,Introductory Chapter,0,4
+C0057,11,Kazusa Touma,Female,0,0,2,Acquaintance,,Tsundere,Black,1.0,"Kazusa is the second heroine introduced and shares a deep, complex history with the protagonist.",1,Introductory Chapter,1,2
+C0058,11,Io Mizusawa,Female,0,0,3,,,Dandere,Brown,0.95,Introduced in the Coda/Closing Chapter as a heroine route.,1,Introductory Chapter,0,4
+C0059,11,Koharu Hino,Female,0,0,4,,,Genki,Brown,0.95,Introduced in the Closing Chapter as a heroine route.,2,Closing Chapter,0,4
+C0060,11,Chiaki Miyamoto,Female,0,0,5,,,Onee-san,Brown,0.95,Introduced in the Closing Chapter as a heroine route.,2,Closing Chapter,1,2
+C0061,11,Mari Kazama,Female,0,0,6,,,Onee-san,Black,0.95,Introduced in the Closing Chapter as a heroine route.,2,Closing Chapter,6,1
+C0062,12,Yuzuki Eba,Female,1,1,1,,Marriage,Deredere,Brown,1.0,"Yuzuki is the primary heroine, the first to move in with the protagonist, and the canonical winner who marries Haruto.",1,Chapter 1,4,4
+C0063,12,Nanami Kanzaki,Female,0,0,2,,,Dandere,Black,0.95,"Introduced as a romantic interest during the high school arc, but does not win.",1,Chapter 1,39,1
+C0064,12,Asuka Mishima,Female,0,0,3,,,Tsundere,Brown,0.95,"Introduced as a romantic interest during the college arc, but does not win.",2,Chapter 75,0,5
+C0065,12,Rin Eba,Female,0,0,4,,,Deredere,Blue,0.85,Automatically recovered missing major candidate: Rin Eba.,1,Chapter 1,8,3
+C0066,12,Akari Kaga,Female,0,0,5,,,Genki,Brown,0.85,Automatically recovered missing major candidate: Akari Kaga.,1,Chapter 1,21,2
+C0067,13,Suzuka Asahina,Female,1,1,1,,Marriage,Tsundere,Black,1.0,She is the titular character and the primary romantic interest who eventually marries the protagonist.,1,Chapter 1,1052,1
+C0068,13,Honoka Sakurai,Female,0,0,2,,,Dandere,Brown,1.0,She is a significant romantic rival introduced after Suzuka.,2,Chapter 2,2,2
+C0069,13,Megumi Matsumoto,Female,0,0,3,,,Onee-san,Brown,0.85,Automatically recovered missing major candidate: Megumi Matsumoto.,1,Chapter 1,0,3
+C0070,14,Hina Tachibana,Female,1,1,1,,Marriage,Onee-san,Brown,1.0,Hina is the first romantic interest introduced and is the canonical winner at the end of the manga.,1,Chapter 1,11,2
+C0071,14,Rui Tachibana,Female,0,0,2,,,Kuudere,Blue,1.0,Rui is introduced shortly after Hina and serves as a primary romantic interest throughout the series but does not win.,1,Chapter 1,0,4
+C0072,14,Momo Kashiwabara,Female,0,0,3,,,Deredere,Pink,0.95,Introduced as a romantic interest following the main sisters.,2,Chapter 20,34,1
+C0073,14,Miyabi Amakawa,Female,0,0,4,,,Dandere,Black,0.95,Introduced as a romantic interest during the college arc.,3,Chapter 50,2,3
+C0074,15,Hiromi Yuasa,Female,0,1,1,Childhood Friend,,Dandere,Black,0.95,Introduced first as the girl living in the protagonist's house; she is the primary focus of the early narrative.,1,Episode 1,19,1
+C0075,15,Noe Isurugi,Female,1,0,2,,,Kuudere,Black,0.95,"The central heroine of the anime original series, she is the one the protagonist ultimately chooses.",1,Episode 1,2,3
+C0076,15,Aiko Andou,Female,0,0,3,Childhood Friend,,Genki,Brown,0.95,"Introduced as a childhood friend working at the family shop, she serves as a significant romantic obstacle.",1,Episode 1,11,2
+C0077,16,Madoka Ayukawa,Female,1,1,1,,,Tsundere,Black,1.0,Madoka is the primary romantic interest and the first girl introduced in the manga. She is the canonical winner of the series.,1,Chapter 1,5862,1
+C0078,16,Hikaru Hiyama,Female,0,0,2,,,Genki,Brown,1.0,"Hikaru is introduced shortly after Madoka as a romantic interest for Kyosuke, but she does not win the series.",1,Chapter 1,66,2
+C0079,17,Juliet Persia,Female,1,1,1,,Marriage,Tsundere,Blonde,1.0,Juliet is the titular heroine and the primary romantic interest introduced in the first chapter. She marries the protagonist at the end of the manga.,1,Chapter 1,0,3
+C0080,17,Hasuki Komai,Female,0,0,2,Childhood Friend,,Dandere,Black,1.0,Hasuki is the protagonist's childhood friend who is introduced shortly after the start of the series as a romantic rival.,1,Chapter 1,0,3
+C0081,17,Chartreux Westia,Female,0,0,3,,,Kuudere,Silver,0.85,Automatically recovered missing major candidate: Chartreux Westia.,2,Chapter 3,0,3
+C0082,17,Kochou Wang,Female,0,0,4,,,Genki,Purple,0.85,Automatically recovered missing major candidate: Kochou Wang.,3,Chapter 10,42,2
+C0083,17,Teria Wang,Female,0,0,5,,,Dandere,Purple,0.85,Automatically recovered missing major candidate: Teria Wang.,3,Chapter 10,108,1
+C0084,18,Aki Adagaki,Female,1,1,1,Childhood Promise,Marriage,Tsundere,Black,1.0,Aki is the primary target of the protagonist's revenge and the eventual winner of the series.,1,Chapter 1,0,1
+C0085,18,Yoshino Koiwai,Female,0,0,2,Childhood Friend,,Dandere,Brown,0.95,"Yoshino is the maid and childhood friend who orchestrates the events, but does not win the protagonist.",1,Chapter 1,0,1
+C0086,18,Neko Fujinomiya,Female,0,0,3,,,Deredere,Brown,0.95,Neko is introduced later as a romantic rival who falls for the protagonist but is not the winner.,3,Chapter 12,0,1
+C0087,18,Tae Futaba,Female,0,0,4,,,Genki,Brown,0.85,Automatically recovered missing major candidate: Tae Futaba.,2,Chapter 2,0,1
+C0088,18,Kojuurou Shuri,Female,0,0,5,,,Dandere,Orange,0.85,Automatically recovered missing major candidate: Kojuurou Shuri.,1,Chapter 1,0,1
+C0089,19,Urara Shiraishi,Female,1,1,1,,Marriage,Kuudere,Black,1.0,"She is the primary heroine, the first witch introduced, and the canonical winner who marries Yamada.",1,Chapter 1,2494,1
+C0090,19,Nene Odagiri,Female,0,0,2,,,Tsundere,Black,0.95,Introduced as a major rival/witch shortly after Shiraishi.,2,Chapter 3,382,2
+C0091,19,Miyabi Itou,Female,0,0,3,,,Dandere,Brown,0.95,Joins the club early on as a core member.,3,Chapter 10,50,5
+C0092,19,Noa Takigawa,Female,0,0,4,,,Genki,Brown,0.95,Introduced during the witch hunt arc.,4,Chapter 25,154,3
+C0093,19,Leona Miyamura,Female,0,0,5,,,Kuudere,Black,0.95,Introduced as a key figure in the witch mystery.,5,Chapter 36,58,4
+C0094,19,Maria Sarushima,Female,0,0,6,,,Genki,Brown,0.95,Introduced as a witch with the power of precognition.,6,Chapter 40,43,6
+C0095,19,Meiko Otsuka,Female,0,0,7,,,Dandere,Brown,0.85,Automatically recovered missing major candidate: Meiko Otsuka.,7,Chapter 56,0,7
+C0096,19,Mikoto Asuka,Female,0,0,8,,,Kuudere,Brown,0.85,Automatically recovered missing major candidate: Mikoto Asuka.,8,Chapter 69,0,7
+C0097,20,Subaru Konoe,Female,1,1,1,,,Dandere,Black,1.0,Subaru is the primary romantic interest and the first girl introduced in the series. She is the canonical winner in the light novel series.,1,Chapter 1,1427,1
+C0098,20,Kanade Suzutsuki,Female,0,0,2,,,Kuudere,Black,1.0,"Kanade is a major heroine and the primary antagonist/schemer, introduced shortly after Subaru.",1,Chapter 1,463,2
+C0099,20,Masamune Usami,Female,0,0,3,,,Tsundere,Brown,1.0,Introduced as a rival/heroine later in the series.,2,Chapter 2,127,3
+C0100,20,Nakuru Narumi,Female,0,0,4,,,Dandere,Brown,1.0,Introduced as a heroine later in the series.,3,Chapter 3,82,4
+C0101,21,Aoi Sakuraba,Female,1,1,1,Childhood Promise,Engagement,Dandere,Black,1.0,"Aoi is the primary heroine, the childhood promise partner, and the canonical winner.",1,Chapter 1,342,1
+C0102,21,Taeko Minazuki,Female,0,0,2,,,Dandere,Brown,0.95,Introduced early as a neighbor and romantic interest.,2,Chapter 2,10,3
+C0103,21,Chika Minazuki,Female,0,0,3,,,Genki,Brown,0.95,"Taeko's younger sister, introduced shortly after.",6,Chapter 19,7,5
+C0104,21,Miyabi Kagurazaki,Female,0,0,4,,,Tsundere,Black,0.95,Introduced as Aoi's attendant and rival.,1,Chapter 1,9,4
+C0105,21,Tina Foster,Female,0,0,5,,,Genki,Blonde,0.95,Introduced as a foreign exchange student and romantic rival.,3,Chapter 3,71,2
+C0106,21,Mayu Miyuki,Female,0,0,6,,,Tsundere,Black,0.95,Introduced later in the series.,4,Chapter 10,3,6
+C0107,21,Chizuru Aizawa,Female,0,0,7,,,Onee-san,Black,0.95,Introduced as a maid/caretaker figure.,5,Chapter 11,1,7
+C0108,22,Akane Tendou,Female,1,1,1,,Engagement,Tsundere,Black,1.0,"Akane is the primary heroine, the first to be introduced as a romantic interest, and the canonical winner in the manga.",1,Chapter 1,820,2
+C0109,22,Ukyou Kuonji,Female,0,0,2,Childhood Promise,,Genki,Brown,0.95,"Introduced as a childhood friend with a promise, does not win.",3,Chapter 34,301,3
+C0110,22,Shampoo,Female,0,0,3,,,Deredere,Purple,0.95,"Introduced as a romantic rival/pursuer, does not win.",2,Chapter 18,832,1
+C0111,22,Kodachi Kuno,Female,0,0,4,,,Yandere,Black,0.85,Automatically recovered missing major candidate: Kodachi Kuno.,4,Chapter 44,0,4
+C0112,23,Nagi Sanzenin,Female,0,1,1,,,Tsundere,Blonde,1.0,"Nagi is the first major heroine introduced and the primary focus of the series, though the manga ends without a definitive romantic winner.",1,Chapter 1,581,2
+C0113,23,Maria,Female,0,0,2,,,Onee-san,Brown,1.0,Introduced shortly after Nagi as a primary household figure.,1,Chapter 1,311,3
+C0114,23,Ayumu Nishizawa,Female,0,0,3,,,Genki,Black,1.0,One of the earliest classmates to develop a crush on Hayate.,2,Chapter 2,100,6
+C0115,23,Hinagiku Katsura,Female,0,0,4,,,Tsundere,Pink,1.0,Becomes a major romantic interest after the student council arc.,3,Chapter 10,2456,1
+C0116,23,Isumi Saginomiya,Female,0,0,5,,,Dandere,Black,1.0,Introduced as a recurring character who develops feelings for Hayate.,4,Chapter 13,110,5
+C0117,23,Izumi Segawa,Female,0,0,6,,,Kuudere,Black,1.0,A recurring character in the school setting.,4,Chapter 13,74,7
+C0118,23,Athena Tennousu,Female,0,0,7,Childhood Promise,,Kuudere,Blonde,1.0,The primary childhood connection character introduced later in the series.,5,Chapter 193,250,4
+C0119,23,Ruka Suirenji,Female,0,0,8,,,Deredere,Pink,1.0,Introduced in the later stages of the manga.,6,Chapter 270,69,8
+C0120,23,Sakuya Aizawa,Female,0,0,9,,,Genki,Blue,0.85,Automatically recovered missing major candidate: Sakuya Aizawa.,4,Chapter 13,58,9
+C0121,25,25,Female,1,1,1,,Marriage,Tsundere,Blue,1.0,"Kaname is the primary heroine and the canonical romantic partner of Sousuke Sagara, culminating in their marriage in the light novel epilogue.",1,"Volume 1, Chapter 1",0,2
+C0122,25,Teletha Testarossa,Female,0,0,2,,,Dandere,Silver,1.0,Teletha is a major romantic interest who develops feelings for Sousuke but does not end up with him.,2,"Volume 2, Chapter 1",1150,1
+C0123,26,Midori Kasugano,Female,1,1,1,,,Deredere,Brown,1.0,Midori is the titular character and the primary romantic interest who appears in the first chapter. She is the canonical winner as the story focuses on her relationship with Seiji.,1,Chapter 1,239,1
+C0124,26,Takako Ayase,Female,0,0,2,,,Tsundere,Black,0.95,"Introduced as a classmate and romantic rival/interest for Seiji, but does not win.",1,Chapter 1,49,2
+C0125,26,Nao Makinoha,Female,0,0,3,Childhood Friend,,Dandere,Brown,0.95,"Seiji's childhood friend who harbors feelings for him, but does not win.",2,Chapter 10,7,3
+C0126,26,Rina,Female,0,0,4,,,Deredere,Blonde,0.85,Automatically recovered missing major candidate: Rina.,3,Chapter 20,0,4
+C0127,26,Lucy Winfield,Female,0,0,5,,,Genki,Blonde,0.85,Automatically recovered missing major candidate: Lucy Winfield.,4,Chapter 30,0,4
+C0128,27,Rea Sanka,Female,1,1,1,,,Dandere,Black,1.0,Rea is the primary heroine and the focus of the romantic narrative throughout the manga.,1,Chapter 1,1758,1
+C0129,27,Ranko Saouji,Female,0,0,2,Childhood Friend,,Tsundere,Brown,1.0,Ranko is the childhood friend who harbors feelings for the protagonist but does not win.,1,Chapter 1,69,2
+C0130,27,Darin Arnschent Kurumiya,Female,0,0,3,,,Kuudere,Blonde,0.9,A secondary character introduced later in the series with limited romantic impact.,2,Chapter 20,22,3
+C0131,29,Erica Blandelli,Female,0,1,1,,,Deredere,Blonde,0.85,Automatically recovered missing major candidate: Erica Blandelli.,1,"Volume 1, Chapter 1",0,1
+C0132,29,Yuri Mariya,Female,0,0,2,,,Dandere,Brown,0.85,Automatically recovered missing major candidate: Yuri Mariya.,2,"Volume 1, Chapter 3",0,1
+C0133,29,Liliana Kranjcar,Female,0,0,3,,,Tsundere,Silver,0.85,Automatically recovered missing major candidate: Liliana Kranjcar.,3,"Volume 3, Chapter 1",0,1
+C0134,29,Ena Seishuuin,Female,0,0,4,,,Genki,Black,0.85,Automatically recovered missing major candidate: Ena Seishuuin.,4,"Volume 4, Chapter 1",0,1
+C0135,30,Tooka Yatogami,Female,0,1,1,,,Deredere,Purple,1.0,She is the first spirit encountered and the primary heroine of the series.,1,"Volume 1, Chapter 1",4675,2
+C0136,30,Origami Tobiichi,Female,0,0,2,Childhood Friend,,Kuudere,White,0.95,She is a classmate and childhood acquaintance of Shido.,1,"Volume 1, Chapter 1",2374,3
+C0137,30,Kotori Itsuka,Female,0,0,3,Childhood Friend,,Tsundere,Red,1.0,She is Shido's adoptive sister and childhood friend.,1,"Volume 1, Chapter 1",2183,4
+C0138,30,Kurumi Tokisaki,Female,0,0,4,,,Yandere,Black,0.95,Introduced as a transfer student and major romantic interest.,3,"Volume 3, Chapter 1",23287,1
+C0139,30,Yoshino Himekawa,Female,0,0,5,,,Dandere,Blue,0.95,Introduced as the second spirit.,2,"Volume 2, Chapter 1",1934,5
+C0140,30,Reine Murasame,Female,0,0,6,,,Onee-san,Blue,0.9,Introduced as an analyst for Ratatoskr.,1,"Volume 1, Chapter 1",278,6
+C0141,30,Kaguya Yamai,Female,0,0,7,,,Genki,Orange,0.85,Automatically recovered missing major candidate: Kaguya Yamai.,4,"Volume 4, Chapter 1",0,7
+C0142,30,Yuzuru Yamai,Female,0,0,8,,,Kuudere,Orange,0.85,Automatically recovered missing major candidate: Yuzuru Yamai.,4,"Volume 4, Chapter 1",0,7
+C0143,30,Miku Izayoi,Female,0,0,9,,,Deredere,Blue,0.85,Automatically recovered missing major candidate: Miku Izayoi.,5,"Volume 6, Chapter 1",0,7
+C0144,30,Natsumi,Female,0,0,10,,,Dandere,Green,0.85,Automatically recovered missing major candidate: Natsumi.,6,"Volume 8, Chapter 1",0,7
+C0145,31,Yukina Himeragi,Female,1,1,1,,,Tsundere,Black,0.85,Automatically recovered missing major candidate: Yukina Himeragi.,1,Episode 1,1083,1
+C0146,31,Asagi Aiba,Female,0,0,2,,,Tsundere,Blonde,0.85,Automatically recovered missing major candidate: Asagi Aiba.,1,Episode 1,372,2
+C0147,31,Sayaka Kirasaka,Female,0,0,3,,,Tsundere,Brown,0.85,Automatically recovered missing major candidate: Sayaka Kirasaka.,2,Episode 4,319,3
+C0148,32,Claire Rouge,Female,0,1,1,,,Tsundere,Red,0.95,Claire is the first major heroine introduced and the primary romantic interest throughout the series.,1,"Volume 1, Chapter 1",117,3
+C0149,32,Restia Ashdoll,Female,0,0,2,Childhood Friend,,Onee-san,Black,0.9,Restia is the childhood friend and a central figure in the protagonist's past.,2,"Volume 1, Chapter 2",161,2
+C0150,32,Rinslet Laurenfrost,Female,0,0,3,,,Tsundere,Blue,0.9,Introduced early as a rival and romantic interest.,1,"Volume 1, Chapter 1",26,6
+C0151,32,Ellis Fahrengart,Female,0,0,4,,,Kuudere,Blue,0.9,Introduced as a member of the team and romantic interest.,2,"Volume 1, Chapter 2",107,4
+C0152,32,Fianna Ray Ordesia,Female,0,0,5,,,Deredere,Blonde,0.9,Introduced as a princess and romantic interest.,3,"Volume 1, Chapter 3",33,5
+C0153,32,Terminus Est,Female,0,0,6,,,Kuudere,Silver,0.9,A spirit partner who develops romantic feelings for the protagonist.,4,"Volume 2, Chapter 1",511,1
+C0154,33,Himari Noihara,Female,1,1,1,Childhood Promise,Marriage,Deredere,Black,1.0,"Himari is the titular character, the first to appear as a romantic interest, and marries the protagonist in the manga ending.",1,Chapter 1,678,1
+C0155,33,Kuesu Jinguuji,Female,0,0,2,Childhood Friend,Engagement,Tsundere,Blonde,0.95,Childhood friend and fiancee who appears early in the narrative.,2,Chapter 2,63,3
+C0156,33,Shizuku,Female,0,0,3,,,Kuudere,Blue,0.95,Introduced as an antagonist/rival before becoming a romantic interest.,3,Chapter 3,104,2
+C0157,33,Lizlet L Chelsie,Female,0,0,4,,,Dandere,Silver,0.95,Introduced later in the manga series.,4,Chapter 10,31,4
+C0158,33,Rinko Kuzaki,Female,0,0,5,Childhood Friend,,Genki,Brown,0.95,Childhood friend who is a romantic interest but does not win.,1,Chapter 1,9,5
+C0159,33,Ageha,Female,0,0,6,,,Genki,Orange,0.85,Automatically recovered missing major candidate: Ageha.,5,Chapter 15,0,6
+C0160,35,Emile Crossfode,Female,0,1,1,Childhood Promise,,Deredere,Silver,0.95,"Emile is the first heroine introduced and shares a childhood promise with the protagonist, Hayato Kisaragi.",1,Episode 1,213,1
+C0161,35,Claire Harvey,Female,0,0,2,,,Tsundere,Blonde,0.9,Claire is introduced shortly after Emile as the student council president.,1,Episode 1,84,2
+C0162,35,Sakura Kirishima,Female,0,0,3,,,Deredere,Pink,0.85,Automatically recovered missing major candidate: Sakura Kirishima.,2,Episode 3,31,3
+C0163,35,Karen Kisaragi,Female,0,0,4,,,Kuudere,Silver,0.85,Automatically recovered missing major candidate: Karen Kisaragi.,1,Episode 1,10,4
+C0164,35,Liddy Steinberg,Female,0,0,5,,,Tsundere,Blonde,0.85,Automatically recovered missing major candidate: Liddy Steinberg.,1,Episode 1,0,5
+C0165,36,Julie Sigtuna,Female,0,1,1,,,Kuudere,Silver,1.0,"Julie is the first heroine introduced and the primary partner of the protagonist, though the series remains an open harem.",1,Episode 1,804,1
+C0166,36,Lilith Bristol,Female,0,0,2,,,Tsundere,Blonde,1.0,Introduced shortly after Julie as a major romantic interest.,2,Episode 4,156,2
+C0167,36,Miyabi Hotaka,Female,0,0,3,,,Dandere,Black,1.0,Introduced as a classmate and romantic interest.,1,Episode 1,76,4
+C0168,36,Tomoe Tachibana,Female,0,0,4,,,Dandere,Black,1.0,Introduced as a classmate and romantic interest.,1,Episode 1,45,5
+C0169,36,Rito Tsukimi,Female,0,0,5,,,Genki,Pink,0.85,Automatically recovered missing major candidate: Rito Tsukimi.,1,Episode 1,99,3
+C0170,37,Chisato Sumiyoshi,Female,0,1,1,Childhood Friend,,Deredere,Brown,0.95,The protagonist's childhood friend and the first heroine to be established as a romantic interest.,1,Episode 1,60,4
+C0171,37,Satsuki Shinonome,Female,0,0,2,,,Tsundere,Brown,0.95,"Student council president and major heroine, introduced shortly after the protagonist joins the club.",1,Episode 1,158,1
+C0172,37,Isara Aomi,Female,0,0,3,,,Dandere,Black,0.95,"A member of the food research club, introduced early as a core heroine.",1,Episode 1,24,5
+C0173,37,Michiru Morishita,Female,0,0,4,,,Kuudere,Blue,0.95,Introduced as a mysterious student who joins the club later in the narrative.,1,Episode 1,105,2
+C0174,37,Mifuyu Kiba,Female,0,0,5,,,Onee-san,Black,0.95,"A senior member of the club, introduced as a key heroine.",1,Episode 1,19,6
+C0175,37,Oba Michiru,Female,0,0,6,,,Dandere,Brown,0.85,Automatically recovered missing major candidate: Oba Michiru.,99,Unknown,105,2
+C0176,38,Stella Vermillion,Female,1,1,1,,Engagement,Tsundere,Red,1.0,"Stella is the primary heroine and the protagonist's fiancee, established early in the light novel.",1,Chapter 1 / Episode 1,2845,1
+C0177,38,Shizuku Kurogane,Female,0,0,2,,,Kuudere,Silver,0.85,Automatically recovered missing major candidate: Shizuku Kurogane.,2,Chapter 2 / Episode 2,144,2
+C0178,38,Ayase Ayatsuji,Female,0,0,3,,,Dandere,Black,0.85,Automatically recovered missing major candidate: Ayase Ayatsuji.,3,Chapter 3 / Episode 5,82,3
+C0179,38,Nene Saikyo,Female,0,0,4,,,Onee-san,Pink,0.85,Automatically recovered missing major candidate: Nene Saikyo.,4,Chapter 4 / Episode 7,45,4
+C0180,39,Shana,Female,1,1,1,,,Tsundere,Black,1.0,Shana is the primary heroine and the canonical romantic partner of Yuji Sakai in the light novel series.,1,Episode 1,7073,1
+C0181,39,Kazumi Yoshida,Female,0,0,2,,,Dandere,Brown,1.0,"Kazumi is a major romantic rival introduced shortly after the start of the series, but she does not win.",1,Episode 1,56,2
+C0182,40,Louise Françoise Le Blanc de La Vallière,Female,1,1,1,,Marriage,Tsundere,Pink,1.0,The primary protagonist and canonical wife of Saito Hiraga.,1,Chapter 1,5244,1
+C0183,40,Siesta,Female,0,0,2,,,Deredere,Black,1.0,Introduced shortly after Louise as a maid and romantic rival.,2,Chapter 2,186,4
+C0184,40,Henrietta de Tristain,Female,0,0,3,,,Deredere,Blonde,1.0,"The Queen of Tristain, introduced early as a romantic interest.",3,Chapter 5,186,4
+C0185,40,Charlotte Hélène d'Orléans,Female,0,0,4,,,Deredere,Blonde,0.95,Introduced later in the series as a romantic interest.,4,Chapter 10,324,3
+C0186,40,Kirche Augusta Frederica von Anhalt-Zerbst,Female,0,0,5,,,Onee-san,Red,1.0,Classmate introduced as a romantic rival.,2,Chapter 2,91,6
+C0187,40,Tabitha,Female,0,0,6,,,Kuudere,Blue,0.85,Automatically recovered missing major candidate: Tabitha.,2,Chapter 2,0,7
+C0188,40,Montmorency Margarita la Fère de Montmorency,Female,0,0,7,,,Tsundere,Blonde,0.85,Automatically recovered missing major candidate: Montmorency Margarita la Fère de Montmorency.,2,Chapter 2,5244,1
+C0189,41,Mai Sakurajima,Female,1,1,1,,,Kuudere,Black,1.0,Mai is the primary heroine and the canonical romantic partner of Sakuta Azusagawa throughout the series.,1,Episode 1,40393,1
+C0190,41,Tomoe Koga,Female,0,0,2,,,Genki,Brown,0.95,Tomoe is a major heroine introduced in the second volume of the light novel series.,2,Episode 4,1693,4
+C0191,41,Rio Futaba,Female,0,0,3,,,Kuudere,Brown,0.85,Automatically recovered missing major candidate: Rio Futaba.,1,Episode 1,4709,2
+C0192,41,Kaede Azusagawa,Female,0,0,4,,,Dandere,Brown,0.85,Automatically recovered missing major candidate: Kaede Azusagawa.,1,Episode 1,2522,3
+C0193,41,Nodoka Toyohama,Female,0,0,5,,,Tsundere,Blonde,0.85,Automatically recovered missing major candidate: Nodoka Toyohama.,3,Episode 7,0,5
+C0194,41,Shoko Makinohara,Female,0,0,6,,,Deredere,Black,0.85,Automatically recovered missing major candidate: Shoko Makinohara.,1,Episode 1,0,5
+C0195,42,Emilia,Female,0,1,1,,,Dandere,Silver,1.0,"Emilia is the primary heroine and the first major romantic interest introduced in the series. The story is ongoing and features a harem dynamic, so no winner is declared.",1,Episode 1,24497,2
+C0196,42,Rem,Female,0,0,2,,,Deredere,Blue,0.85,Automatically recovered missing major candidate: Rem.,2,Episode 4,47720,1
+C0197,42,Ram,Female,0,0,3,,,Tsundere,Pink,0.85,Automatically recovered missing major candidate: Ram.,2,Episode 4,2964,3
+C0198,43,Hitagi Senjougahara,Female,1,1,1,,Marriage,Tsundere,Purple,1.0,"She is the primary romantic interest and canonical partner of the protagonist, Koyomi Araragi, throughout the series.",1,"Bakemonogatari, Chapter 1: Hitagi Crab",41388,1
+C0199,43,Tsubasa Hanekawa,Female,0,0,2,,,Dandere,Black,0.95,"Introduced early as a close friend and love interest, but does not end up with the protagonist.",1,"Bakemonogatari, Chapter 1: Hitagi Crab",11387,3
+C0200,43,Suruga Kanbaru,Female,0,0,3,,,Genki,Black,0.95,A major character who develops feelings for the protagonist but remains a friend.,3,"Bakemonogatari, Chapter 3: Suruga Monkey",5065,5
+C0201,43,Nadeko Sengoku,Female,0,0,4,,,Dandere,Brown,0.95,"A major character with a crush on the protagonist, but never enters a romantic relationship with him.",4,"Bakemonogatari, Chapter 4: Nadeko Snake",5054,6
+C0202,43,Shinobu Oshino,Female,0,0,5,,,Kuudere,Blonde,0.85,Automatically recovered missing major candidate: Shinobu Oshino.,1,"Bakemonogatari, Chapter 1: Hitagi Crab",33432,2
+C0203,43,Mayoi Hachikuji,Female,0,0,6,,,Genki,Black,0.85,Automatically recovered missing major candidate: Mayoi Hachikuji.,2,"Bakemonogatari, Chapter 2: Mayoi Snail",7484,4
+C0204,43,Karen Araragi,Female,0,0,7,,,Genki,Black,0.85,Automatically recovered missing major candidate: Karen Araragi.,1,"Bakemonogatari, Chapter 1: Hitagi Crab",1676,7
+C0205,43,Tsukihi Araragi,Female,0,0,8,,,Tsundere,Black,0.85,Automatically recovered missing major candidate: Tsukihi Araragi.,1,"Bakemonogatari, Chapter 1: Hitagi Crab",1358,8
+C0206,43,Sodachi Oikura,Female,0,0,9,,,Tsundere,Black,0.85,Automatically recovered missing major candidate: Sodachi Oikura.,5,"Owarimonogatari, Chapter 1: Sodachi Riddle",0,9
+C0207,44,Yozora Mikazuki,Female,0,1,1,Childhood Friend,,Tsundere,Black,0.95,"The primary heroine and childhood friend of the protagonist, introduced first.",1,"Volume 1, Chapter 1",1246,3
+C0208,44,Sena Kashiwazaki,Female,0,0,2,,,Tsundere,Blonde,0.95,Introduced shortly after Yozora as a major romantic interest in the Neighbors Club.,1,"Volume 1, Chapter 1",3222,1
+C0209,44,Rika Shiguma,Female,0,0,3,,,Genki,Purple,0.9,Joins the club later as a romantic interest.,3,"Volume 2, Chapter 1",927,4
+C0210,44,Yukimura Kusunoki,Female,0,0,4,,,Dandere,Black,0.9,Joins the club later as a romantic interest.,2,"Volume 1, Chapter 2",211,6
+C0211,44,Kobato Hasegawa,Female,0,0,5,,,Tsundere,Blonde,0.85,Automatically recovered missing major candidate: Kobato Hasegawa.,1,"Volume 1, Chapter 1",1381,2
+C0212,44,Maria Takayama,Female,0,0,6,,,Genki,Silver,0.85,Automatically recovered missing major candidate: Maria Takayama.,1,"Volume 1, Chapter 1",293,5
+C0213,45,Masuzu Natsukawa,Female,0,1,1,,Engagement,Tsundere,Silver,1.0,Masuzu is the first heroine introduced and initiates the fake relationship that drives the plot.,1,Episode 1,1431,1
+C0214,45,Chiwa Harusaki,Female,0,0,2,Childhood Friend,,Genki,Red,1.0,Chiwa is the childhood friend who re-enters the protagonist's life as a romantic interest early in the series.,1,Episode 1,159,3
+C0215,45,Ai Fuyuumi,Female,0,0,3,Childhood Promise,,Tsundere,Blue,1.0,Ai is introduced later as a transfer student with a childhood promise connection.,2,Episode 4,602,2
+C0216,45,Himeka Akishino,Female,0,0,4,,,Dandere,Brown,1.0,Himeka is introduced as a romantic interest after the initial trio.,2,Episode 4,67,4
+C0217,46,Lieselotte Sherlock,Female,0,0,4,,,Onee-san,Silver,0.95,"Lieselotte is a major heroine in the Trinity Seven series, introduced later in the story as a member of the Trinity Seven.",3,Chapter 10: The Twin and the Demon Lord,752,4
+C0218,46,Lilith Asami,Female,0,1,5,,,Tsundere,Red,0.85,Automatically recovered missing major candidate: Lilith Asami.,1,Chapter 1: The Magus and the King,954,3
+C0219,46,Arata Kasuga,Female,0,0,6,,,Deredere,Black,0.85,Automatically recovered missing major candidate: Arata Kasuga.,99,Unknown,1773,1
+C0220,46,Arin Kannazuki,Female,0,0,7,,,Kuudere,Blue,0.85,Automatically recovered missing major candidate: Arin Kannazuki.,1,Chapter 1: The Magus and the King,264,6
+C0221,46,Levi Kazama,Female,0,0,8,,,Genki,Brown,0.85,Automatically recovered missing major candidate: Levi Kazama.,1,Chapter 1: The Magus and the King,1048,2
+C0222,46,Mira Yamana,Female,0,0,9,,,Tsundere,Silver,0.85,Automatically recovered missing major candidate: Mira Yamana.,1,Chapter 1: The Magus and the King,218,7
+C0223,46,Akio Fudo,Female,0,0,10,,,Genki,Orange,0.85,Automatically recovered missing major candidate: Akio Fudo.,1,Chapter 1: The Magus and the King,106,8
+C0224,46,Yui Kurata,Female,0,0,11,,,Deredere,Purple,0.85,Automatically recovered missing major candidate: Yui Kurata.,2,Chapter 2: The Grimoire and the Library,465,5
+C0225,47,Houki Shinonono,Female,0,1,1,Childhood Friend,,Tsundere,Black,1.0,Houki is the childhood friend and the first heroine introduced in the series.,1,"Volume 1, Chapter 1 / Episode 1",602,3
+C0226,47,Lingyin Huang,Female,0,0,2,Childhood Friend,,Tsundere,Brown,1.0,Introduced as the second childhood friend.,2,"Volume 1, Chapter 3 / Episode 2",140,7
+C0227,47,Cecilia Alcott,Female,0,0,3,,,Tsundere,Blonde,1.0,Introduced as the British representative.,1,"Volume 1, Chapter 2 / Episode 1",212,6
+C0228,47,Charlotte Dunois,Female,0,0,4,,,Deredere,Blonde,1.0,Introduced as the French representative.,3,"Volume 2, Chapter 1 / Episode 3",2302,1
+C0229,47,Laura Bodewig,Female,0,0,5,,,Tsundere,Silver,1.0,Introduced as the German representative.,4,"Volume 2, Chapter 3 / Episode 5",1326,2
+C0230,47,Tatenashi Sarashiki,Female,0,0,6,,,Onee-san,Blue,0.85,Automatically recovered missing major candidate: Tatenashi Sarashiki.,5,"Volume 4, Chapter 1 / Episode 1 (Season 2)",458,4
+C0231,47,Kanzashi Sarashiki,Female,0,0,7,,,Dandere,Purple,0.85,Automatically recovered missing major candidate: Kanzashi Sarashiki.,6,"Volume 6, Chapter 1 / Episode 5 (Season 2)",458,4
+C0232,48,Erika Amano,Female,0,1,1,,Engagement,Tsundere,Blonde,1.0,Erika is the first heroine introduced and is engaged to the protagonist due to the baby swap.,1,Chapter 1,312,1
+C0233,48,Hiro Segawa,Female,0,0,2,,,Genki,Black,0.95,Introduced as the protagonist's academic rival and crush.,1,Chapter 1,207,2
+C0234,48,Sachi Umino,Female,0,0,3,,,Tsundere,Black,0.95,Introduced as the protagonist's younger sister figure.,1,Chapter 1,194,3
+C0235,48,Ai Mochizuki,Female,0,0,4,,,Deredere,Brown,0.9,Introduced later as a musician and romantic interest.,2,Chapter 50,36,4
+C0236,49,Shiragiku Ono,Female,0,1,1,Childhood Friend,,Dandere,Brown,1.0,Shiragiku is the first heroine introduced in the manga and has a confirmed childhood connection.,1,Chapter 1,89,4
+C0237,49,Akane Hououji,Female,0,0,2,,,Onee-san,Red,1.0,Introduced as part of the main group at the cafe.,1,Chapter 1,466,1
+C0238,49,Ouka Makuzawa,Female,0,0,3,,,Tsundere,Black,1.0,Introduced as part of the main group at the cafe.,1,Chapter 1,163,2
+C0239,49,Riho Tsukishima,Female,0,0,4,,,Onee-san,Brown,1.0,Introduced as part of the main group at the cafe.,1,Chapter 1,144,3
+C0240,49,Ami Tsuruga,Female,0,0,5,,,Genki,Black,1.0,Introduced as part of the main group at the cafe.,1,Chapter 1,66,5
+C0241,50,Yuna Amagami,Female,0,1,1,,,Onee-san,Black,1.0,Yuna is the eldest sister and the first of the three sisters to be introduced as a primary romantic interest in the manga.,1,Chapter 1,222,1
+C0242,50,Asahi Amagami,Female,0,0,2,,,Genki,Brown,1.0,Asahi is the middle sister and is introduced as a romantic interest shortly after Yuna.,1,Chapter 1,187,2
+C0243,50,Yae Amagami,Female,0,0,3,,,Dandere,Black,1.0,Yae is the youngest sister and is introduced as a romantic interest after Yuna and Asahi.,1,Chapter 1,175,3
+C0244,51,Tsukasa Izumi,Female,1,1,1,,Marriage,Genki,Brown,1.0,Tsukasa is the primary heroine and the canonical winner who marries the protagonist.,1,Chapter 1,15,3
+C0245,51,Yuki Kurokawa,Female,0,0,2,,,Dandere,Black,0.95,Yuki is a significant romantic interest introduced later in the series.,1,Chapter 1,253,1
+C0246,51,Sho Iketani,Female,0,0,3,,,Genki,Black,0.85,Automatically recovered missing major candidate: Sho Iketani.,99,Unknown,62,2
+C0247,51,Misa Kawakami,Female,0,0,4,,,Deredere,Black,0.85,Automatically recovered missing major candidate: Misa Kawakami.,2,Chapter 32,0,4
+C0248,52,Ritsu Kawai,Female,1,1,1,,,Dandere,Black,1.0,Ritsu is the primary romantic interest and the first girl introduced in the series. The manga concludes with them officially becoming a couple.,1,Chapter 1 / Episode 1,1548,1
+C0249,52,Sayaka Watanabe,Female,0,0,2,,,Genki,Orange,0.85,Automatically recovered missing major candidate: Sayaka Watanabe.,1,Chapter 1 / Episode 1,32,3
+C0250,52,Mayumi Nishikino,Female,0,0,3,,,Onee-san,Purple,0.85,Automatically recovered missing major candidate: Mayumi Nishikino.,1,Chapter 1 / Episode 1,154,2
+C0251,53,Mashiro Shiina,Female,1,1,1,,,Kuudere,Blonde,1.0,Mashiro is the primary heroine and the eventual romantic partner of Sorata Kanda in the light novel series.,1,Episode 1,16234,1
+C0252,53,Nanami Aoyama,Female,0,0,2,,,Tsundere,Brown,1.0,Nanami is a major romantic interest who competes for Sorata's affection but does not win.,2,Episode 2,2445,2
+C0253,53,Misaki Kamiigusa,Female,0,0,3,,,Genki,Brown,0.85,Automatically recovered missing major candidate: Misaki Kamiigusa.,1,Episode 1,846,3
+C0254,53,Rita Ainsworth,Female,0,0,4,,,Deredere,Blonde,0.85,Automatically recovered missing major candidate: Rita Ainsworth.,3,Episode 7,98,4
+C0255,54,Tsukiko Tsutsukakushi,Female,0,1,1,,,Kuudere,Black,0.95,"Tsukiko is the primary heroine and the first to be introduced as a romantic interest. While the series ends with a strong focus on her, it remains an open-ended harem conclusion in the light novel.",1,Chapter 1,2169,1
+C0256,54,Azusa Azuki,Female,0,0,2,,,Tsundere,Brown,0.95,Introduced after Tsukiko as a major romantic interest. The series does not have a single canonical winner.,1,Chapter 1,331,2
+C0257,55,Victorique de Blois,Female,1,1,1,,Marriage,Tsundere,Blonde,1.0,"Victorique is the primary protagonist and romantic partner of Kazuya Kujo, eventually marrying him. She is the first major heroine introduced.",1,The Black Reaper Sees the Golden Fairy,5572,1
+C0258,55,Avril Bradley,Female,0,0,2,,,Genki,Blonde,0.95,Avril is a secondary character who develops a crush on Kazuya but is not the romantic winner.,2,The Golden Thread Tears the Short-Lived Moment,7,2
+C0259,56,Soushi Miketsukami,Male,1,1,1,Childhood Friend,Marriage,Kuudere,Silver,1.0,He is Ririchiyo's devoted Secret Service agent and main love interest who eventually marries her.,1,Episode 1,1897,1
+C0260,57,Nagisa Furukawa,Female,1,1,1,,Marriage,Dandere,Brown,1.0,"Nagisa is the primary heroine and the only one with a true route that leads to the After Story, resulting in marriage.",1,Episode 1,11555,1
+C0261,57,Tomoyo Sakagami,Female,0,0,2,,,Tsundere,Silver,1.0,Introduced as a transfer student and potential romantic interest.,2,Episode 2,4737,2
+C0262,57,Kyou Fujibayashi,Female,0,0,3,,,Tsundere,Purple,1.0,Class representative introduced early in the school setting.,3,Episode 3,3799,3
+C0263,57,Fuuko Ibuki,Female,0,0,4,,,Dandere,Blue,1.0,Introduced during the carving starfish arc.,4,Episode 4,3723,4
+C0264,57,Kotomi Ichinose,Female,0,0,5,Childhood Friend,,Dandere,Purple,1.0,Revealed to be a childhood friend of Tomoya.,5,Episode 5,2404,5
+C0265,57,Ryou Fujibayashi,Female,0,0,6,,,Dandere,Purple,1.0,"Twin sister of Kyou, introduced alongside her.",3,Episode 3,232,6
+C0266,57,Yukine Miyazawa,Female,0,0,7,,,Deredere,Brown,0.85,Automatically recovered missing major candidate: Yukine Miyazawa.,6,Episode 7,0,7
+C0267,58,Ayu Tsukimiya,Female,0,1,1,Childhood Promise,,Genki,Brown,1.0,Ayu is the primary heroine and the first to be introduced in the narrative structure of the visual novel.,1,Episode 1,1184,1
+C0268,58,Nayuki Minase,Female,0,0,2,Childhood Friend,,Dandere,Blue,1.0,"The protagonist's cousin and childhood friend, introduced early in the story.",1,Episode 1,402,4
+C0269,58,Mai Kawasumi,Female,0,0,3,,,Kuudere,Blonde,1.0,Introduced as a major heroine in the school setting.,2,Episode 2,797,2
+C0270,58,Makoto Sawatari,Female,0,0,4,,,Genki,Brown,1.0,Introduced as a major heroine following the initial encounters.,3,Episode 3,607,3
+C0271,58,Shiori Misaka,Female,0,0,5,,,Dandere,Brown,1.0,Introduced as a major heroine later in the story.,4,Episode 4,305,5
+C0272,59,Misuzu Kamio,Female,0,1,1,,,Dandere,Brown,1.0,Misuzu is the primary heroine of the AIR visual novel and the first to be introduced in the Dream arc.,1,Episode 1,1165,1
+C0273,59,Minagi Toono,Female,0,0,2,,,Kuudere,Black,0.95,Introduced as a major heroine in the Dream arc following Misuzu.,2,Episode 2,103,2
+C0274,59,Michiru,Female,0,0,3,,,Genki,Brown,0.95,Introduced as a major heroine in the Dream arc.,3,Episode 4,22,3
+C0275,59,Kano Kirishima,Female,0,0,4,,,Genki,Brown,0.95,Introduced as a major heroine in the Dream arc.,2,Episode 2,13,4
+C0276,60,Kei Takishima,Male,1,1,1,Childhood Friend,Marriage,Kuudere,Brown,1.0,He is Hikari's lifelong rival and primary love interest who eventually proposes marriage to her.,1,Chapter 1,1617,1
+C0277,60,Yahiro Saiga,Male,0,0,2,Childhood Friend,,Kuudere,Blonde,0.95,Hikari's childhood friend who harbor romantic feelings for her but loses to Kei.,2,Chapter 8,92,2
+C0278,61,Tamaki Suou,Male,1,1,1,,Marriage,Deredere,Blonde,1.0,He is the host club president and the main love interest of Haruhi Fujioka whom he eventually marries.,1,Chapter 1,10201,1
+C0279,61,Hikaru Hitachiin,Male,0,0,2,,,Tsundere,Brown,0.95,One of the Hitachiin twins who develops strong romantic feelings for Haruhi but ultimately steps back.,1,Chapter 1,4104,2
+C0280,61,Kaoru Hitachiin,Male,0,0,3,,,Dandere,Brown,0.95,Hikaru's twin who also has feelings for Haruhi but prioritizes his brother's and Tamaki's happiness.,1,Chapter 1,3279,4
+C0281,61,Kyouya Ootori,Male,0,0,4,,,Kuudere,Black,0.9,Haruhi's friend and co-manager of the club who shows subtle romantic interest.,1,Chapter 1,3588,3
+C0282,62,Kyou Souma,Male,1,1,1,Acquaintance,Marriage,Tsundere,Red,1.0,Cursed Cat of the Sohma family who develops a deep romantic bond with Tohru and eventually marries her.,1,Chapter 1,15927,1
+C0283,62,Yuki Souma,Male,0,0,2,Acquaintance,,Kuudere,Silver,0.95,Cursed Rat who initially acts as Tohru's prince but later realizes his feelings for her are maternal.,1,Chapter 1,3945,2
+C0284,63,Shouta Kazehaya,Male,1,1,1,,Marriage,Deredere,Black,1.0,Sawako's classmate and main love interest who eventually marries her in the manga ending.,1,Chapter 1,3223,1
+C0285,63,Ume Kurumizawa,Female,0,0,2,,,Tsundere,Blonde,0.95,Sawako's rival who actively pursues Kazehaya but is rejected.,2,Chapter 11,272,2
+C0286,63,Kento Miura,Male,0,0,3,,,Genki,Brown,0.9,Sawako's classmate who briefly shows romantic interest but later supports her relationship with Kazehaya.,3,Chapter 31,92,3
+C0287,64,Atsushi Otani,Male,1,1,1,,Marriage,Tsundere,Orange,1.0,"Risa's main love interest who is short and acts tsundere, but eventually falls in love with and marries her in the manga ending.",1,Chapter 1,1986,1
+C0288,64,Haruka Fukagawa,Male,0,0,2,Childhood Friend,,Deredere,Blonde,0.95,"Risa's childhood friend who returns and declares his obsessive love for her, but is rejected.",2,Chapter 12,7,4
+C0289,64,Kazuki Kohori,Male,0,0,3,,,Genki,Brown,0.95,Risa's younger classmate and co-worker who falls in love with her and tries to win her heart.,4,Chapter 26,57,2
+C0290,64,Maitake Kuniumi,Male,0,0,4,,,Onee-san,Brown,0.9,"A handsome teacher who Risa and other girls have a major crush on, but acts as a mentor.",3,Chapter 16,25,3
+C0291,65,Soichiro Arima,Male,1,1,1,,Marriage,Kuudere,Black,1.0,Yukino's rival and main love interest who she eventually marries during the main story.,1,Chapter 1,251,1
+C0292,65,Tsubasa Shibahime,Female,0,0,2,,,Tsundere,Blonde,0.95,Soichiro's childhood acquaintance who has a crush on him but loses to Yukino.,2,Chapter 6,79,2
+C0293,66,Takashi Kosuda,Male,1,1,1,,Marriage,Dandere,Brown,1.0,Yamada's main love interest who she eventually marries.,1,Chapter 1,58,1
+C0294,67,Mikoto Urabe,Female,1,1,1,,,Kuudere,Black,1.0,Mikoto Urabe is the titular character and the sole primary romantic interest throughout the manga series. She is the first girl introduced and the canonical winner.,1,Chapter 1,3431,1
+C0295,68,Non Katagiri,Female,1,1,1,,Marriage,Deredere,Brown,1.0,Akkun's extremely sweet and devoted girlfriend whom he eventually proposes to.,1,Chapter 1,67,1
+C0296,68,Chiho Kagari,Female,0,0,2,,,Tsundere,Blonde,0.9,Akkun's younger sister who acts tsundere towards Akkun and Non.,2,Chapter 2,14,2
+C0297,69,Livius I,Male,1,1,1,,Marriage,Kuudere,Black,1.0,The Sun King who marries Nike Remercier.,1,Chapter 1,443,1
+C0298,70,Aoi Oribe,Female,0,1,1,Childhood Friend,,Genki,Brown,1.0,She is the first heroine introduced and the protagonist's childhood friend.,1,Episode 1,53,2
+C0299,70,Nanaka Yatsushiro,Female,1,0,2,Childhood Promise,,Dandere,Purple,1.0,She is the primary romantic interest and the focus of the childhood promise plotline.,1,Episode 1,164,1
+C0300,70,Shuri Wakatsuki,Female,0,0,3,Childhood Friend,,Tsundere,Blue,1.0,Childhood friend introduced shortly after the main group is established.,1,Episode 1,18,4
+C0301,70,Asami Hoshino,Female,0,0,4,,,Deredere,Black,0.95,Introduced later in the series as a classmate.,1,Episode 1,30,3
